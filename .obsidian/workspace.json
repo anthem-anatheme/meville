@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "03167b3a991a684a",
+        "id": "09b6addf41830194",
         "type": "tabs",
         "children": [
           {
-            "id": "919328baf664a82b",
+            "id": "d995102352d9b691",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "2025-05-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "2025-05-11"
             }
           }
         ]
@@ -139,16 +139,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2025-05-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-05-11"
             }
           },
           {
-            "id": "88e0a25ea6ceea09",
+            "id": "b3ba4729e3f38ae6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -162,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,15 +176,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "919328baf664a82b",
+  "active": "d995102352d9b691",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Chem/Exam Notes/2024 Paper 3.md",
+    "Chem/Exam Notes/2023 Paper 3.md",
     "Templates/Daily Note Template.md",
     "2025-05-11.md",
     "Chem/Exam Notes/OCR 2020 Paper 3.md",
-    "Chem/Exam Notes/2024 Paper 3.md",
-    "Chem/Exam Notes/2023 Paper 3.md",
     "phone sync test.md",
-    "Untitled.canvas",
     "Master",
     "Main",
     "Untitled/Bio.canvas",
