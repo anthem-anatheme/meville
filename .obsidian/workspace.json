@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,11 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8f8f526d4dd98c9",
+  "active": "f8395df266c86984",
   "lastOpenFiles": [
+    "Biology Paper 2 Topics.md",
     "Biology Exam Notes.md",
     "Bio Past Paper Mistakes.md",
-    "Biology Paper 2 Topics.md",
     "Maths.md",
     "Chem/Electrode Potential Spec Notes.md",
     "Chem/Lattice Enthalpy Notes.md",
