@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-11.md",
+                "file": "Biology Exam Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-11"
+              "title": "Biology Exam Notes"
+            }
+          },
+          {
+            "id": "f8395df266c86984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chem/Electrode Potential Spec Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electrode Potential Spec Notes"
+            }
+          },
+          {
+            "id": "b8f8f526d4dd98c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology Paper 2 Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biology Paper 2 Topics"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,13 +205,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d995102352d9b691",
+  "active": "b8f8f526d4dd98c9",
   "lastOpenFiles": [
+    "Biology Exam Notes.md",
+    "Bio Past Paper Mistakes.md",
+    "Biology Paper 2 Topics.md",
+    "Maths.md",
+    "Chem/Electrode Potential Spec Notes.md",
+    "Chem/Lattice Enthalpy Notes.md",
+    "Chem/Electrode Potential MS Notes.md",
+    "Electrode Potentials.md",
     "Untitled.canvas",
+    "2025-05-11.md",
     "Chem/Exam Notes/2024 Paper 3.md",
     "Chem/Exam Notes/2023 Paper 3.md",
     "Templates/Daily Note Template.md",
-    "2025-05-11.md",
     "Chem/Exam Notes/OCR 2020 Paper 3.md",
     "phone sync test.md",
     "Master",
@@ -204,13 +241,6 @@
     "2024-11-20.md",
     "2024-11-10.md",
     "2025-02-23.md",
-    "2025-02-17.md",
-    "2025-02-15.md",
-    "2025-02-05.md",
-    "2025-01-16.md",
-    "2025-02-03.md",
-    "2025-01-14.md",
-    "2025-01-13.md",
     "Interview",
     "Chem/PPQ's",
     "Chem",
