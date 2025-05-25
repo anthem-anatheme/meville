@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"6777ee731765faae","x":-180,"y":-60,"width":305,"height":90,"type":"text","text":"# Transition metals"},
-		{"id":"3d737b4751f7883c","x":-375,"y":180,"width":250,"height":60,"type":"text","text":"Haemoglobin"}
-	],
-	"edges":[
-		{"id":"134107944457076b","fromNode":"3d737b4751f7883c","fromSide":"top","toNode":"6777ee731765faae","toSide":"bottom","toEnd":"none"}
-	]
-}
