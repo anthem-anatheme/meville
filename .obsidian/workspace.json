@@ -25,14 +25,10 @@
             "id": "6ff51a2d88ce140a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mistakes/Chemistakes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chemistakes"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -191,15 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ba4729e3f38ae6",
+  "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
+    "Mistakes/Chemistakes.md",
+    "Chemistry/Enthalpy.md",
+    "Chemistry/Lattice Enthalpy.md",
     "Chemistry/Chemistry Paper 1 Questions.md",
     "Chemistry/Acids,Bases, Buffers.md",
     "Chemistry/Chemistry Topic Rankings.md",
-    "Mistakes/Chemistakes.md",
-    "Chemistry/Lattice Enthalpy.md",
-    "Chemistry/Enthalpy.md",
-    "Chemistry/Enthalpy.md",
     "Core Pure Paper tracker.md",
     "Untitled.canvas",
     "Mistakes/Transition metals mistakes.md",
