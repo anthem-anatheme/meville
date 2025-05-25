@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Topic Rankings.md",
+                "file": "Mistakes/2021_Paper_1_mistakes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chemistry Topic Rankings"
+              "title": "2021_Paper_1_mistakes"
+            }
+          },
+          {
+            "id": "65e90bb426d11558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,14 +205,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ff51a2d88ce140a",
+  "active": "65e90bb426d11558",
   "lastOpenFiles": [
+    "Chemistry Topic Rankings.md",
+    "conflict-files-obsidian-git.md",
     "Core Pure Paper tracker.md",
     "Mistakes/2021_Paper_1_mistakes.md",
-    "Mistakes/Chemistry Paper 1 Mistakes.md",
+    "Mistakes/Chemistry Paper 1 Questions.md",
     "Mistakes/Transition metals mistakes.md",
     "Mistakes/Untitled.canvas",
-    "Chemistry Topic Rankings.md",
+    "Mistakes/Chemistry Paper 1 Mistakes.md",
+    "Master",
     "Bio Paper 1 Rankings.md",
     "Mistakes",
     "().md",
@@ -217,15 +234,12 @@
     "Templates/Daily Note Template.md",
     "Chem/Exam Notes/OCR 2020 Paper 3.md",
     "phone sync test.md",
-    "Master",
     "Main",
     "Untitled/Bio.canvas",
     "Mistakes Log.md",
     "Bio/AQA A-Level Biology Mark Scheme + Spec Bank.pdf",
     "Bio/Response to Stimuli.md",
     "Bio",
-    "Class Notes - Period 5.md",
-    "2025-02-24.md",
     "Chem/Exam Notes",
     "Interview",
     "Chem/PPQ's",
