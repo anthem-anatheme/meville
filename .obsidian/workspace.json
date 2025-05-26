@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-05-26.md",
+                "file": "Mistakes/Chemistakes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-26"
+              "title": "Chemistakes"
             }
           }
         ],
@@ -191,14 +191,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e71728907916e3b8",
+  "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
-    "Daily Notes/2025-05-26 1.md",
+    "Biology/mitosis.md",
+    "Biology/Cell Fractionation.md",
+    "Biology/2024 Biology Paper 1.md",
+    "Biology",
+    "Mistakes/Transition metals mistakes.md",
+    "2025-05-26.md",
     "Daily Notes/2025-05-26.md",
+    "Daily Notes/2025-05-26 1.md",
     "Chemistry/knowledge gaps.md",
     "Mistakes/2024 OCR Paper 1.md",
     "Mistakes/Chemistakes.md",
-    "Mistakes/Transition metals mistakes.md",
     "Chemistry/Fuel Cells.md",
     "Chemistry/Lattice Enthalpy.md",
     "Chemistry/Rates.md",
@@ -223,15 +228,10 @@
     "Mistakes/Untitled.canvas",
     "Templates/Untitled.md",
     "Templates",
-    "conflict-files-obsidian-git.md",
-    "Mistakes/Chemistry Paper 1 Mistakes.md",
     "Master",
-    "Bio Paper 1 Rankings.md",
     "Mistakes",
-    "().md",
     "Main",
     "Untitled/Bio.canvas",
-    "Bio/AQA A-Level Biology Mark Scheme + Spec Bank.pdf",
-    "Bio"
+    "Bio/AQA A-Level Biology Mark Scheme + Spec Bank.pdf"
   ]
 }
