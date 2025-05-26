@@ -1,2 +1,3 @@
-- Standard Hydrogen Electrode has to have hydrogen intake system? Tube around electrode with gap to let in H2 and **labelled** 
-- S orbital spherical - S for Sphere [[Transition Elements]] 
+- Standard Hydrogen Electrode has to have hydrogen intake system? Tube around electrode with gap to let in H2 and **labelled** [[Redox & Electrode Potentials]]
+- S orbital spherical - S for Sphere, p is dumbbell shaped [[Transition Elements]] 
+- Fuel cells are hydrogen + oxygen -> water and release electrical energy, can be done in both acid and alkaline conditions and belongs to the [[Redox & Electrode Potentials]] topic

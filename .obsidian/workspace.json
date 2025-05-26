@@ -25,10 +25,14 @@
             "id": "6ff51a2d88ce140a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/knowledge gaps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "knowledge gaps"
             }
           }
         ],
@@ -191,6 +195,8 @@
   "lastOpenFiles": [
     "Mistakes/2024 OCR Paper 1.md",
     "Mistakes/Chemistakes.md",
+    "Mistakes/Transition metals mistakes.md",
+    "2025-05-26.md",
     "Chemistry/knowledge gaps.md",
     "Chemistry/Fuel Cells.md",
     "Chemistry/Lattice Enthalpy.md",
@@ -211,7 +217,6 @@
     "Daily Notes/2025-05-25.md",
     "Daily Notes",
     "Daily Notes/2025-05-26.md",
-    "Mistakes/Transition metals mistakes.md",
     "Untitled.canvas",
     "Chemistry",
     "Mistakes/Chem Mistakes Bible.md",
@@ -224,7 +229,6 @@
     "Bio Paper 1 Rankings.md",
     "Mistakes",
     "().md",
-    "Chem/Exam Notes/2024 Paper 3.md",
     "Main",
     "Untitled/Bio.canvas",
     "Bio/AQA A-Level Biology Mark Scheme + Spec Bank.pdf",
