@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/knowledge gaps.md",
+                "file": "Daily Notes/2025-05-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "knowledge gaps"
+              "title": "2025-05-26"
             }
           }
         ],
@@ -191,13 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ff51a2d88ce140a",
+  "active": "e71728907916e3b8",
   "lastOpenFiles": [
+    "Daily Notes/2025-05-26 1.md",
+    "Daily Notes/2025-05-26.md",
+    "Chemistry/knowledge gaps.md",
     "Mistakes/2024 OCR Paper 1.md",
     "Mistakes/Chemistakes.md",
     "Mistakes/Transition metals mistakes.md",
-    "2025-05-26.md",
-    "Chemistry/knowledge gaps.md",
     "Chemistry/Fuel Cells.md",
     "Chemistry/Lattice Enthalpy.md",
     "Chemistry/Rates.md",
@@ -216,7 +217,6 @@
     "Maths/Core Pure Paper tracker.md",
     "Daily Notes/2025-05-25.md",
     "Daily Notes",
-    "Daily Notes/2025-05-26.md",
     "Untitled.canvas",
     "Chemistry",
     "Mistakes/Chem Mistakes Bible.md",
