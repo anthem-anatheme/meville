@@ -25,14 +25,12 @@
             "id": "6ff51a2d88ce140a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Chemistry/Acids,Bases, Buffers.md",
-                "mode": "source",
-                "source": false
+                "file": "screenshot.png"
               },
-              "icon": "lucide-file",
-              "title": "Acids,Bases, Buffers"
+              "icon": "lucide-image",
+              "title": "screenshot"
             }
           }
         ],
@@ -193,15 +191,18 @@
   },
   "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
+    "2025-05-26.md",
+    "screenshot.png",
+    "2025-05-25.md",
+    "Core Pure Paper tracker.md",
+    "Mistakes/Transition metals mistakes.md",
     "Mistakes/Chemistakes.md",
+    "Chemistry/Acids,Bases, Buffers.md",
     "Chemistry/Enthalpy.md",
     "Chemistry/Lattice Enthalpy.md",
     "Chemistry/Chemistry Paper 1 Questions.md",
-    "Chemistry/Acids,Bases, Buffers.md",
     "Chemistry/Chemistry Topic Rankings.md",
-    "Core Pure Paper tracker.md",
     "Untitled.canvas",
-    "Mistakes/Transition metals mistakes.md",
     "Chemistry",
     "Mistakes/Chem Mistakes Bible.md",
     "Mistakes/Untitled.canvas",
@@ -222,8 +223,6 @@
     "Chem/Lattice Enthalpy Notes.md",
     "Chem/Electrode Potential MS Notes.md",
     "Electrode Potentials.md",
-    "2025-05-11.md",
-    "Chem/Exam Notes/2023 Paper 3.md",
     "Main",
     "Untitled/Bio.canvas",
     "Bio/AQA A-Level Biology Mark Scheme + Spec Bank.pdf",
