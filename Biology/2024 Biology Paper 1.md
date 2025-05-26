@@ -1,4 +1,4 @@
-Pretty easy paper tbh, had a bit of trouble with [[mitosis]] but i think it came to me after a while.
+Pretty easy paper tbh, had a bit of trouble with [[Mitosis]] but i think it came to me after a while.
 
 Perhaps missed a mark on [[Cell Fractionation]] to obtain nucleus - 6 marks is too much I feel but I wrote down everything I could remember. 
 
