@@ -1,0 +1,2 @@
+- Standard Hydrogen Electrode has to have hydrogen intake system? Tube around electrode with gap to let in H2 and **labelled** 
+- S orbital spherical - S for Sphere [[Transition Elements]] 

@@ -25,12 +25,10 @@
             "id": "6ff51a2d88ce140a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "screenshot.png"
-              },
-              "icon": "lucide-image",
-              "title": "screenshot"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -191,17 +189,29 @@
   },
   "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
-    "2025-05-26.md",
-    "screenshot.png",
-    "2025-05-25.md",
-    "Core Pure Paper tracker.md",
-    "Mistakes/Transition metals mistakes.md",
+    "Mistakes/2024 OCR Paper 1.md",
     "Mistakes/Chemistakes.md",
-    "Chemistry/Acids,Bases, Buffers.md",
-    "Chemistry/Enthalpy.md",
+    "Chemistry/knowledge gaps.md",
+    "Chemistry/Fuel Cells.md",
     "Chemistry/Lattice Enthalpy.md",
-    "Chemistry/Chemistry Paper 1 Questions.md",
+    "Chemistry/Rates.md",
+    "Chemistry/Redox & Electrode Potentials.md",
+    "Chemistry/Transition Elements.md",
+    "Chemistry/Acids,Bases, Buffers.md",
+    "Chemistry/Bonding.md",
+    "Chemistry/Equilibrium.md",
+    "Chemistry/Enthalpy and Entropy.md",
+    "Redox/Electrode Potentials.md",
+    "Redox",
     "Chemistry/Chemistry Topic Rankings.md",
+    "Chemistry/Chemistry Paper 1 Questions.md",
+    "Daily Notes/screenshot.png",
+    "Maths",
+    "Maths/Core Pure Paper tracker.md",
+    "Daily Notes/2025-05-25.md",
+    "Daily Notes",
+    "Daily Notes/2025-05-26.md",
+    "Mistakes/Transition metals mistakes.md",
     "Untitled.canvas",
     "Chemistry",
     "Mistakes/Chem Mistakes Bible.md",
@@ -215,20 +225,9 @@
     "Mistakes",
     "().md",
     "Chem/Exam Notes/2024 Paper 3.md",
-    "Chem/Electrode Potential Spec Notes.md",
-    "Biology Paper 2 Topics.md",
-    "Biology Exam Notes.md",
-    "Bio Past Paper Mistakes.md",
-    "Maths.md",
-    "Chem/Lattice Enthalpy Notes.md",
-    "Chem/Electrode Potential MS Notes.md",
-    "Electrode Potentials.md",
     "Main",
     "Untitled/Bio.canvas",
     "Bio/AQA A-Level Biology Mark Scheme + Spec Bank.pdf",
-    "Bio",
-    "Chem/Exam Notes",
-    "Interview",
-    "Chem/PPQ's"
+    "Bio"
   ]
 }
