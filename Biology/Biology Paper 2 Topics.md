@@ -7,7 +7,6 @@ kanban-plugin: board
 ## wtf
 
 - [ ] [[6.3 Skeletal Muscles]]
-- [ ] [[5.2 Respiration]]
 - [ ] [[5.4 Nutrient Cycles]]
 
 
@@ -16,6 +15,7 @@ kanban-plugin: board
 - [ ] [[7.2-4 Populations in Ecosystems]]
 - [ ] [[8.3-4 Gene Technologies]]
 - [ ] [[5.1 Photosynthesis]]
+- [ ] [[5.2 Respiration]]
 - [ ] [[5.3 Energy and Ecosystems]]
 
 
