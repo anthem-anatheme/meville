@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drawing.ink.md",
+                "file": "Mistakes/Transition metals mistakes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drawing.ink"
+              "title": "Transition metals mistakes"
             }
           }
         ]
@@ -155,8 +155,8 @@
   },
   "active": "30dc8a416a2508d1",
   "lastOpenFiles": [
-    "Maths/Core Pure Paper tracker.md",
     "Drawing.ink.md",
+    "Maths/Core Pure Paper tracker.md",
     "/Maths/Core Pure Paper tracker.md",
     "/Maths",
     "/Daily Notes/2025-05-28.md",
