@@ -174,12 +174,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
+    "5.2 Respiration.md",
     "Chemistry/Rates.md",
     "Biology/2024 Biology Paper 1.md",
     "Biology/Biology Paper 2 Topics.md",
@@ -207,7 +207,6 @@
     "Chemistry/Lattice Enthalpy.md",
     "Chemistry/Redox & Electrode Potentials.md",
     "Chemistry/Transition Elements.md",
-    "Chemistry/Bonding.md",
     "Redox",
     "Maths",
     "Daily Notes",
