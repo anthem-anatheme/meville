@@ -11,10 +11,14 @@
             "id": "30dc8a416a2508d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Core Pure Paper tracker.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Core Pure Paper tracker"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Maths/Core Pure Paper tracker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,6 +155,12 @@
   },
   "active": "30dc8a416a2508d1",
   "lastOpenFiles": [
+    "/Daily Notes/2025-05-28.md",
+    "Daily Notes/2025-05-28.md",
+    "/Daily Notes",
+    "/Biology/5.2 Respiration.md",
+    "Biology/5.2 Respiration.md",
+    "/Biology",
     "Maths/Core Pure Paper tracker.md",
     "Maths",
     "Master",
@@ -178,8 +189,6 @@
     "Chemistry/Enthalpy and Entropy.md",
     "Chemistry/Rates.md",
     "Chemistry/Equilibrium.md",
-    "Chemistry/Acids, Bases, Buffers.md",
-    "Chemistry/Lattice Enthalpy.md",
     "Chemistry"
   ]
 }
