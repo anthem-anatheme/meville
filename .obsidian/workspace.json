@@ -11,20 +11,14 @@
             "id": "6ff51a2d88ce140a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Biology/Biology Paper 2 Topics.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Chemistry/Fuel Cells.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Biology Paper 2 Topics"
+              "icon": "lucide-file",
+              "title": "Fuel Cells"
             }
           }
         ]
@@ -180,28 +174,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
-    "7.2-4 Populations in Ecosystems.md",
-    "Biology/Biology Paper 2 Topics.md",
+    "Chemistry/Rates.md",
     "Biology/2024 Biology Paper 1.md",
+    "Biology/Biology Paper 2 Topics.md",
+    "Biology/Cell Fractionation.md",
+    "Biology/Mitosis.md",
+    "Biology/Skeletal Muscles.md",
+    "7.2-4 Populations in Ecosystems.md",
     "Biology/8.3-4 Gene Technologies.md",
     "Biology/3.6.2 Nervous Coordination.md",
     "Biology/7.2-4 Populations in Ecosystems.md",
     "Biology/6.1 Stimuli and Response.md",
     "Biology/4.2 Plant Mass Transport.md",
-    "Biology/Skeletal Muscles.md",
-    "Biology/Mitosis.md",
     "Daily Notes/2025-05-25.md",
     "Daily Notes/screenshot.png",
     "Daily Notes/2025-05-26.md",
     "2025-05-26.md",
     "Chemistry/Acids, Bases, Buffers.md",
     "Mistakes/Chemistakes.md",
-    "Biology/Cell Fractionation.md",
     "Biology",
     "Mistakes/Transition metals mistakes.md",
     "Daily Notes/2025-05-26 1.md",
@@ -209,7 +205,6 @@
     "Mistakes/2024 OCR Paper 1.md",
     "Chemistry/Fuel Cells.md",
     "Chemistry/Lattice Enthalpy.md",
-    "Chemistry/Rates.md",
     "Chemistry/Redox & Electrode Potentials.md",
     "Chemistry/Transition Elements.md",
     "Chemistry/Bonding.md",
