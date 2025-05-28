@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Core Pure Paper tracker.md",
+                "file": "Biology/Skeletal Muscles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Pure Paper tracker"
+              "title": "Skeletal Muscles"
             }
           }
         ]
@@ -177,8 +177,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6ff51a2d88ce140a",
+  "active": "e71728907916e3b8",
   "lastOpenFiles": [
+    "Drawing.ink.md",
+    "Chemistry/Acids, Bases, Buffers.md",
+    "Biology/5.2 Respiration.md",
+    "Maths/Core Pure Paper tracker.md",
     "Untitled.canvas",
     "Daily Notes/2025-05-28.md",
     "Untitled Kanban.md",
@@ -188,7 +192,6 @@
     "Chemistry/Chemistry Paper 1 Questions.md",
     "Chemistry/Bonding.md",
     "Chemistry/Fuel Cells.md",
-    "Biology/5.2 Respiration.md",
     "Chemistry/Rates.md",
     "Biology/2024 Biology Paper 1.md",
     "Biology/Biology Paper 2 Topics.md",
@@ -204,8 +207,6 @@
     "Daily Notes/2025-05-25.md",
     "Daily Notes/screenshot.png",
     "Daily Notes/2025-05-26.md",
-    "2025-05-26.md",
-    "Chemistry/Acids, Bases, Buffers.md",
     "Biology",
     "Redox",
     "Maths",
