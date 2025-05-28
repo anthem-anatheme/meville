@@ -11,16 +11,14 @@
             "id": "6ff51a2d88ce140a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Chemistry/knowledge gaps.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "knowledge gaps"
             }
           }
         ]
@@ -181,6 +179,7 @@
   },
   "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
+    "Chemistry/Chemistry Paper 1 Questions.md",
     "Chemistry/Bonding.md",
     "Untitled Kanban.md",
     "Chemistry/Fuel Cells.md",
@@ -208,7 +207,6 @@
     "Daily Notes/2025-05-26 1.md",
     "Chemistry/knowledge gaps.md",
     "Mistakes/2024 OCR Paper 1.md",
-    "Chemistry/Lattice Enthalpy.md",
     "Redox",
     "Maths",
     "Daily Notes",
