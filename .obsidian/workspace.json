@@ -11,14 +11,16 @@
             "id": "6ff51a2d88ce140a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Chemistry/Fuel Cells.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "Fuel Cells"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -179,6 +181,9 @@
   },
   "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
+    "Chemistry/Bonding.md",
+    "Untitled Kanban.md",
+    "Chemistry/Fuel Cells.md",
     "5.2 Respiration.md",
     "Chemistry/Rates.md",
     "Biology/2024 Biology Paper 1.md",
@@ -203,10 +208,7 @@
     "Daily Notes/2025-05-26 1.md",
     "Chemistry/knowledge gaps.md",
     "Mistakes/2024 OCR Paper 1.md",
-    "Chemistry/Fuel Cells.md",
     "Chemistry/Lattice Enthalpy.md",
-    "Chemistry/Redox & Electrode Potentials.md",
-    "Chemistry/Transition Elements.md",
     "Redox",
     "Maths",
     "Daily Notes",
