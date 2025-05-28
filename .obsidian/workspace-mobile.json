@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "fcdd9c01927858c6",
+    "id": "e59c1884d8a76414",
     "type": "split",
     "children": [
       {
-        "id": "fc2a7753157aaefc",
+        "id": "8d51f3db7a091215",
         "type": "tabs",
         "children": [
           {
-            "id": "69c9f9e59dc4eff1",
+            "id": "30dc8a416a2508d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Cell Fractionation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cell Fractionation"
+              "title": "New tab"
             }
           }
         ]
@@ -27,24 +23,24 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "99fbdee1411c8157",
+    "id": "35676a0acd2ef6a6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "43e51d9711abb595",
+        "id": "d02077f09e946393",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "a698c2fa97066fa1",
+        "id": "d89dfee65ef982f5",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +57,7 @@
         }
       },
       {
-        "id": "96d8eed3ece46bdd",
+        "id": "dd2117c025d6bf42",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +72,7 @@
         }
       },
       {
-        "id": "92e6852991d7d532",
+        "id": "3491c28e1279408a",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,11 +85,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "0a184fd31bab6eba",
+    "id": "80e1ab04d3730442",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c047a0dcffd4d831",
+        "id": "1cd9a56d707e69c6",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -111,7 +107,7 @@
         }
       },
       {
-        "id": "b8977750ff422b22",
+        "id": "ef25012bbbd81d97",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -124,7 +120,7 @@
         }
       },
       {
-        "id": "b8ad0b4df5d3961e",
+        "id": "a9bcab3f8d7f0031",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -136,19 +132,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "29d909e656d885eb",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,47 +148,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d909e656d885eb",
+  "active": "30dc8a416a2508d1",
   "lastOpenFiles": [
-    "Biology/Biology Paper 2 Topics.md",
-    "5.2 Respiration.md",
-    "Biology/2024 Biology Paper 1.md",
-    "Chemistry/Acids, Bases, Buffers.md",
-    "/Mistakes/Chemistakes.md",
-    "/Mistakes/2024 OCR Paper 1.md",
-    "/Mistakes",
-    "/Chemistry/Chemistry Paper 1 Questions.md",
-    "/Biology/Biology Paper 2 Topics.md",
-    "/Biology/2024 Biology Paper 1.md",
-    "/Chemistry/Acids, Bases, Buffers.md",
-    "/Biology/Skeletal Muscles.md",
-    "Biology/Skeletal Muscles.md",
-    "/Biology",
-    "/Chemistry",
-    "2025-05-26.md",
-    "/Daily Notes/2025-05-26.md",
-    "/Daily Notes",
-    "/2025-05-26.md",
-    "Biology/Cell Fractionation.md",
-    "Biology/mitosis.md",
-    "Daily Notes/2025-05-26.md",
-    "Biology",
-    "/Chemistry/knowledge gaps.md",
-    "Mistakes/2024 OCR Paper 1.md",
-    "Chemistry/Enthalpy and Entropy.md",
-    "Chemistry/Fuel Cells.md",
-    "Chemistry/Rates.md",
-    "Chemistry/Equilibrium.md",
-    "Chemistry/Redox & Electrode Potentials.md",
     "Maths/Core Pure Paper tracker.md",
     "Maths",
+    "Master",
+    "5.2 Respiration.md",
+    "Mistakes/Chemistakes.md",
+    "Mistakes/2024 OCR Paper 1.md",
+    "Mistakes/Transition metals mistakes.md",
+    "Mistakes",
+    "Daily Notes/2025-05-26.md",
+    "Daily Notes/2025-05-25.md",
     "Daily Notes/screenshot.png",
     "Daily Notes",
-    "/Daily Notes/screenshot.png",
-    "/Maths",
-    "screenshot.png",
-    "Chemistry",
-    "Mistakes/Untitled.canvas",
-    "Mistakes"
+    "Biology/Skeletal Muscles.md",
+    "Biology/Cell Fractionation.md",
+    "Biology/2024 Biology Paper 1.md",
+    "Biology/mitosis.md",
+    "Biology/Biology Paper 2 Topics.md",
+    "Biology",
+    "Chemistry/Chemistry Topic Rankings.md",
+    "Chemistry/Redox & Electrode Potentials.md",
+    "Chemistry/Transition Elements.md",
+    "Chemistry/Bonding.md",
+    "Chemistry/Fuel Cells.md",
+    "Chemistry/Chemistry Paper 1 Questions.md",
+    "Chemistry/knowledge gaps.md",
+    "Chemistry/Enthalpy and Entropy.md",
+    "Chemistry/Rates.md",
+    "Chemistry/Equilibrium.md",
+    "Chemistry/Acids, Bases, Buffers.md",
+    "Chemistry/Lattice Enthalpy.md",
+    "Chemistry"
   ]
 }
