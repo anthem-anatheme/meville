@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] [[5.2 Respiration]]
 - [ ] [[8.3-4 Gene Technologies]]
 - [ ] [[5.1 Photosynthesis]]
-- [ ] [[5.2 Respiration]]
 - [ ] [[5.3 Energy and Ecosystems]]
 
 
