@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mistakes/2021 OCR Paper 2.md",
+                "file": "Mistakes/Mistake Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2021 OCR Paper 2"
+              "title": "Mistake Template"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
-    "Mistakes/2024 OCR Paper 1.md",
+    "Daily Notes/2025-05-28.md",
+    "Mistakes/Mistake Template.md",
     "Mistakes/2021 OCR Paper 2.md",
+    "Mistakes/2024 OCR Paper 1.md",
     "Mistakes/Chemistakes.md",
     "Mistakes/Transition metals mistakes.md",
     "Chemistry Mistakes.md",
@@ -200,7 +202,6 @@
     "Biology/5.2 Respiration.md",
     "Maths/Core Pure Paper tracker.md",
     "Untitled.canvas",
-    "Daily Notes/2025-05-28.md",
     "Chemistry/Chemistry Paper 1 Questions.md",
     "Chemistry/Bonding.md",
     "Chemistry/Fuel Cells.md",
@@ -209,7 +210,6 @@
     "Biology/8.3-4 Gene Technologies.md",
     "Biology/3.6.2 Nervous Coordination.md",
     "Biology/7.2-4 Populations in Ecosystems.md",
-    "Biology/6.1 Stimuli and Response.md",
     "Daily Notes/screenshot.png",
     "Biology",
     "Redox",
