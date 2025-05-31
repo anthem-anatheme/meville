@@ -1,6 +1,6 @@
-# Mistake: <% tp.file.title %>
+# Mistake: Untitled
 
-- **Date:** <% tp.date.now("YYYY-MM-DD") %>
+- **Date:** 2025-05-31
 - **Subject/Topic:** 
 - **Source (Paper/Question):** 
 - **What was the mistake?**
