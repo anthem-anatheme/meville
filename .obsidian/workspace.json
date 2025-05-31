@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Mistakes.md",
+                "file": "Mistakes/2021 OCR Paper 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mistakes"
+              "title": "2021 OCR Paper 2"
             }
           }
         ]
@@ -172,7 +172,6 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false
@@ -180,14 +179,14 @@
   },
   "active": "6ff51a2d88ce140a",
   "lastOpenFiles": [
-    "Chemistry Mistakes.md",
-    "Templates/Mistakes.md",
     "Mistakes/Untitled.md",
+    "Mistakes/2021 OCR Paper 2.md",
+    "Templates/Mistakes.md",
+    "Chemistry Mistakes.md",
     "Mistakes/Chemistakes.md",
     "Templates",
     "Mistakes/Mistake Template.md",
     "Daily Notes/2025-05-28.md",
-    "Mistakes/2021 OCR Paper 2.md",
     "Mistakes/2024 OCR Paper 1.md",
     "Mistakes/Transition metals mistakes.md",
     "Untitled.md",
