@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Cell Fractionation.md",
+                "file": "Mistakes/2021 OCR Paper 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cell Fractionation"
+              "title": "2021 OCR Paper 2"
             }
           }
         ]
@@ -152,6 +152,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -162,20 +163,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69c9f9e59dc4eff1",
+  "active": "29d909e656d885eb",
   "lastOpenFiles": [
-    "Daily Notes/2025-05-28.md",
+    "/Mistakes/Mistake Template.md",
+    "Mistakes/Mistake Template.md",
+    "/Mistakes",
+    "Chemistry Mistakes.md",
+    "/Chemistry Mistakes.md",
+    "/Chemistry/knowledge gaps.md",
+    "/Chemistry",
+    "Mistakes/Chemistakes.md",
+    "Mistakes/2021 OCR Paper 2.md",
+    "Mistakes/2024 OCR Paper 1.md",
     "Biology/Cell Fractionation.md",
+    "/Mistakes/2021 OCR Paper 2.md",
+    "Daily Notes/2025-05-28.md",
     "Ink/Writing/2025.5.28 - 22.36pm.writing",
     "Ink/Writing",
     "Ink",
     "/Mistakes/Transition metals mistakes.md",
-    "/Mistakes",
     "/Maths/Core Pure Paper tracker.md",
     "/Maths",
     "/Ink/Writing/2025.5.28 - 22.36pm.writing",
-    "/Chemistry/knowledge gaps.md",
-    "/Chemistry",
     "/Daily Notes/2025-05-28.md",
     "/Daily Notes",
     "/Biology/5.2 Respiration.md",
@@ -192,13 +201,6 @@
     "/Biology/Biology Paper 2 Topics.md",
     "/Biology/2024 Biology Paper 1.md",
     "/Chemistry/Acids, Bases, Buffers.md",
-    "/Biology/Skeletal Muscles.md",
-    "Biology/Skeletal Muscles.md",
-    "2025-05-26.md",
-    "/Daily Notes/2025-05-26.md",
-    "/2025-05-26.md",
-    "Biology/mitosis.md",
-    "Daily Notes/2025-05-26.md",
     "Daily Notes/screenshot.png",
     "/Daily Notes/screenshot.png",
     "screenshot.png",
