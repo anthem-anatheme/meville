@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Pure Paper tracker.md",
+                "file": "Mistakes/Power Functions Question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Pure Paper tracker"
+              "title": "Power Functions Question"
             }
           }
         ]
@@ -177,11 +177,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b3ba4729e3f38ae6",
+  "active": "ac35d9ad1827fc09",
   "lastOpenFiles": [
-    "No topic selected.md",
-    "Core Pure Paper tracker.md",
+    "Topics/Quality of Tests.md",
+    "Mistakes/Power Functions Question.md",
+    "Topics/Untitled.md",
+    "Topics/Probability Generating Functions.md",
+    "Topics/Goodness of Fit.md",
+    "Topics/Central Limit Theorem.md",
+    "Subjects/Maths.md",
+    "Maths Paper tracker.md",
     "Mistakes/MnO4- Reduction Equation.md",
+    "Mistakes/Probability Generating Functions.md",
+    "No topic selected.md",
     "Mistakes/PGF's.md",
     "Mistakes/MnO4- Reduction.md",
     "Templates/Mistakes.md",
@@ -190,9 +198,7 @@
     "Untitled.canvas",
     "Mistakes/Transition metals mistakes.md",
     "Mistakes/2024 OCR Paper 1.md",
-    "Mistakes/Probability Generating Functions.md",
     "Mistakes/Chemistry Mistakes.md",
-    "Subjects/Maths.md",
     "Subjects/Biology.md",
     "Mistakes/Alkene to haloalkane mechanism.md",
     "Mistakes/Unknown Mechanism.md",
@@ -200,13 +206,7 @@
     "Mistakes/Chemistakes.md",
     "Mistakes/2024 Biology Paper 1.md",
     "Mistakes/2021 OCR Paper 2.md",
-    "Mistakes/2025 Predicted Paper.md",
     "Subjects",
-    "Maths/Probability Gener.md",
-    "Topics/Biology Paper 2 Topics.md",
-    "Topics/Equilibrium.md",
-    "Topics/Bonding.md",
-    "Topics/5.2 Respiration.md",
     "Chemistry",
     "Topics",
     "Templates",
