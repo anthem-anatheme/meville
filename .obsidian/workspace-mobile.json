@@ -11,17 +11,34 @@
             "id": "69c9f9e59dc4eff1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d4a5d39c5e38f570",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
               "state": {
-                "file": "Mistakes/2021 OCR Paper 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology Paper 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "2021 OCR Paper 2"
+              "icon": "lucide-trello",
+              "title": "Biology Paper 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,44 +179,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69c9f9e59dc4eff1",
+  "active": "d4a5d39c5e38f570",
   "lastOpenFiles": [
-    "Templates/Mistakes.md",
-    "Templates",
-    "/Templates/Mistakes.md",
-    "/Templates",
+    "Mistakes/2025 Predicted Paper.md",
+    "Biological Molecules.md",
+    "Microscopy.md",
+    "Biology Paper 1.md",
+    "/Ink/Writing/2025.6.4 - 18.04pm.writing",
+    "Ink/Writing/2025.6.4 - 18.04pm.writing",
+    "/Ink/Writing",
+    "/Ink",
+    "/Biology Paper 1.md",
+    "/Biological Molecules.md",
+    "/Microscopy.md",
+    "/Mistakes/MnO4- Reduction Equation.md",
     "/Mistakes",
-    "/Mistakes/Mistake Template.md",
-    "Mistakes/Mistake Template.md",
-    "Chemistry Mistakes.md",
-    "/Chemistry Mistakes.md",
-    "/Chemistry/knowledge gaps.md",
-    "/Chemistry",
     "Mistakes/Chemistakes.md",
+    "Mistakes/Chemistry Mistakes.md",
     "Mistakes/2021 OCR Paper 2.md",
-    "Mistakes/2024 OCR Paper 1.md",
-    "Biology/Cell Fractionation.md",
-    "/Mistakes/2021 OCR Paper 2.md",
-    "Daily Notes/2025-05-28.md",
-    "Ink/Writing/2025.5.28 - 22.36pm.writing",
-    "Ink/Writing",
-    "Ink",
-    "/Mistakes/Transition metals mistakes.md",
-    "/Maths/Core Pure Paper tracker.md",
-    "/Maths",
-    "/Ink/Writing/2025.5.28 - 22.36pm.writing",
-    "/Daily Notes/2025-05-28.md",
+    "Mistakes/2024 Biology Paper 1.md",
+    "Mistakes/Transition metals mistakes.md",
+    "Mistakes/Power Functions Understanding.md",
+    "Topics/Quality of Tests.md",
+    "Mistakes/PGF's.md",
+    "Mistakes/Probability Generating Functions.md",
+    "Topics/Probability Generating Functions.md",
+    "Topics/Untitled.md",
+    "Maths Paper tracker.md",
+    "Topics/Goodness of Fit.md",
+    "/Mistakes/Power Functions Question.md",
+    "/Maths Paper tracker.md",
+    "/Topics/Untitled.md",
+    "/Topics/Quality of Tests.md",
+    "/Topics/Probability Generating Functions.md",
+    "/Topics",
+    "/Templates",
     "/Daily Notes",
-    "/Biology/5.2 Respiration.md",
-    "Biology/5.2 Respiration.md",
-    "Biology/Biology Paper 2 Topics.md",
-    "5.2 Respiration.md",
-    "Biology/2024 Biology Paper 1.md",
-    "Chemistry/Acids, Bases, Buffers.md",
-    "/Mistakes/Chemistakes.md",
-    "/Mistakes/2024 OCR Paper 1.md",
-    "/Chemistry/Chemistry Paper 1 Questions.md",
-    "/Biology/Biology Paper 2 Topics.md",
+    "Topics",
+    "Subjects",
     "Daily Notes/screenshot.png",
     "/Daily Notes/screenshot.png",
     "screenshot.png",
