@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biological Molecules.md",
+                "file": "Biology/Biology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biological Molecules"
+              "title": "Biology"
             }
           },
           {
@@ -199,8 +199,10 @@
   },
   "active": "ac35d9ad1827fc09",
   "lastOpenFiles": [
-    "Biology Paper 1.md",
     "Biological Molecules.md",
+    "Biology/Biology.md",
+    "Biology",
+    "Biology Paper 1.md",
     "Microscopy.md",
     "Ink/Writing/2025.6.4 - 18.04pm.writing",
     "Subjects/Biology.md",
@@ -226,7 +228,6 @@
     "Subjects/Chemistry.md",
     "Daily Notes/2025-05-31.md",
     "Untitled.canvas",
-    "Mistakes/Transition metals mistakes.md",
     "Subjects",
     "Chemistry",
     "Topics",
@@ -236,7 +237,6 @@
     "Ink",
     "Daily Notes/screenshot.png",
     "Biology",
-    "Redox",
     "Mistakes/Untitled.canvas",
     "Untitled/Bio.canvas"
   ]
