@@ -16,6 +16,8 @@ kanban-plugin: board
 
 ## acc kinda hard
 
+- [ ] Immunity
+- [ ] Natural Selection, Classification, and Biodiversity
 
 
 
