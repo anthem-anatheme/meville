@@ -13,22 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mistakes/Power Functions Question.md",
+                "file": "Biological Molecules.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Power Functions Question"
+              "title": "Biological Molecules"
+            }
+          },
+          {
+            "id": "123cb77e08d71891",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Biology Paper 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Biology Paper 1"
             }
           }
         ]
@@ -189,14 +199,20 @@
   },
   "active": "ac35d9ad1827fc09",
   "lastOpenFiles": [
+    "Biology Paper 1.md",
+    "Biological Molecules.md",
+    "Microscopy.md",
+    "Ink/Writing/2025.6.4 - 18.04pm.writing",
+    "Subjects/Biology.md",
+    "Untitled.md",
     "Mistakes/PGF's.md",
+    "Mistakes/MnO4- Reduction Equation.md",
+    "Mistakes/Power Functions Question.md",
     "Mistakes/Probability Generating Functions.md",
     "Topics/Acids, Bases, Buffers.md",
     "Mistakes/Chemistakes.md",
     "Mistakes/2024 OCR Paper 1.md",
     "Topics/Redox & Electrode Potentials.md",
-    "Mistakes/MnO4- Reduction Equation.md",
-    "Mistakes/Power Functions Question.md",
     "Topics/Quality of Tests.md",
     "Topics/Untitled.md",
     "Topics/Probability Generating Functions.md",
@@ -211,11 +227,6 @@
     "Daily Notes/2025-05-31.md",
     "Untitled.canvas",
     "Mistakes/Transition metals mistakes.md",
-    "Mistakes/Chemistry Mistakes.md",
-    "Subjects/Biology.md",
-    "Mistakes/Alkene to haloalkane mechanism.md",
-    "Mistakes/Unknown Mechanism.md",
-    "Mistakes/rfgerf.md",
     "Subjects",
     "Chemistry",
     "Topics",
@@ -226,7 +237,6 @@
     "Daily Notes/screenshot.png",
     "Biology",
     "Redox",
-    "Maths",
     "Mistakes/Untitled.canvas",
     "Untitled/Bio.canvas"
   ]
