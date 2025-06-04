@@ -11,8 +11,8 @@ tags: #chemistry #knowledge-gap
 - **Source (Paper/Question):** PMT Predicted Paper
 - **What was the mistake?**  
   Didn't know equation of reduction of MnO4- by H2O2 in alkaline conditions so struggled to answer question that requires ratio of how much H2O2 reacts with MnO4- ion.
-- **Correct Answer/Concept:**  
-- **Why did I make this mistake?**  
+- **Correct Answer/Concept:**  Equation not actually needed, just use knowledge from redox - electrons lost from one species must be gained by another
+- **Why did I make this mistake?**  Misunderstanding aim of question
 - **How will I avoid it next time?**  
 
 ## Related Topics
