@@ -63,16 +63,6 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "32c33b595a2dfa81",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
@@ -178,7 +168,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "123cb77e08d71891",
+  "active": "b3ba4729e3f38ae6",
   "lastOpenFiles": [
     "FM1/Power and Work Done.md",
     "FM1/1D Collisions.md",
