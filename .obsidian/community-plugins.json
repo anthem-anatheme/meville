@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-kanban",
   "ink",
-  "templater-obsidian"
+  "templater-obsidian",
+  "folder-notes",
+  "waypoint"
 ]
