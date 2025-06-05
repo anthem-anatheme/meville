@@ -4,5 +4,3 @@
 [[Lattice Enthalpy]] - STATE SYMBOLS!
 [[Acids, Bases, Buffers]] - Check if q wants initial or equilibrium concentration, pay attention and write it down in sight
 [[2024 OCR Paper 1]]
-[[2021 OCR Paper 2|2021 OCR Paper 2]]
-
