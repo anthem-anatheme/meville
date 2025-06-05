@@ -11,12 +11,14 @@
             "id": "b71f917bd20d1615",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "split-diff-view",
               "state": {
-                "path": "/"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Obsidian Vault"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -198,7 +200,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "71b8ccb4ba5b9cb0",
+  "active": "b71f917bd20d1615",
   "lastOpenFiles": [
     "Vault.md",
     "Link to related concept or note.md",
