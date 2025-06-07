@@ -8,43 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac35d9ad1827fc09",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Biology/Biology Paper 1/Biology Paper 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Biology Paper 1"
-            }
-          },
-          {
             "id": "123cb77e08d71891",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Biology Paper 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Biology Paper 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -88,16 +58,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "32c33b595a2dfa81",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -194,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -204,44 +165,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ac35d9ad1827fc09",
+  "active": "123cb77e08d71891",
   "lastOpenFiles": [
-    "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
-    "Biology/Biology Paper 1/Biology Paper 1.md",
-    "Biology/Biology.md",
-    "Biology/Biology Paper 1/Biological Molecules.md",
-    "Biology/Biology Paper 2 Topics/Mitosis.md",
-    "Biology/Biology Paper 1",
-    "Biology/Biology Paper 1/Cell Fractionation.md",
-    "Biology/Biology Paper 2 Topics/Skeletal Muscles.md",
-    "Biology/Biology Paper 2 Topics",
-    "Biology/Biology Paper 2 Topics/5.2 Respiration.md",
-    "Biology",
-    "Biology/Biology Paper 1/Microscopy.md",
-    "Ink/Writing/2025.6.4 - 18.04pm.writing",
-    "Subjects/Biology.md",
-    "Untitled.md",
-    "Mistakes/PGF's.md",
-    "Mistakes/MnO4- Reduction Equation.md",
-    "Mistakes/Power Functions Question.md",
-    "Mistakes/Probability Generating Functions.md",
-    "Topics/Acids, Bases, Buffers.md",
-    "Mistakes/Chemistakes.md",
-    "Mistakes/2024 OCR Paper 1.md",
-    "Topics/Redox & Electrode Potentials.md",
-    "Topics/Quality of Tests.md",
+    "Chemistry/knowledge gaps.md",
     "Topics/Untitled.md",
+    "Topics/Transition Elements.md",
+    "Topics/Redox & Electrode Potentials.md",
+    "Topics/Rates.md",
+    "Topics/Quality of Tests.md",
     "Topics/Probability Generating Functions.md",
+    "Topics/Lattice Enthalpy.md",
     "Topics/Goodness of Fit.md",
+    "Topics/Equilibrium.md",
+    "Topics/Enthalpy and Entropy.md",
+    "Topics/Bonding.md",
     "Topics/Central Limit Theorem.md",
-    "Subjects/Maths.md",
-    "Untitled.canvas",
-    "Subjects",
-    "Chemistry",
+    "Topics/Acids, Bases, Buffers.md",
     "Topics",
+    "Templates/Mistakes.md",
     "Templates",
-    "Ink/Writing/2025.5.28 - 22.36pm.writing",
-    "Ink/Writing",
+    "Mistakes/Power Functions Understanding.md",
+    "Mistakes/MnO4- Reduction Equation.md",
+    "Mistakes/Chemistry Mistakes.md",
+    "Mistakes/2025 Predicted Paper.md",
+    "Mistakes/2024 Biology Paper 1.md",
+    "Maths Paper tracker.md",
+    "Ink/Writing/2025.6.4 - 18.04pm.writing",
+    "Immunity.md",
+    "Daily Notes/2025-05-31.md",
+    "Biology/Biology Paper 2 Topics/Skeletal Muscles.md",
+    "Biology/Biology Paper 2 Topics/Mitosis.md",
+    "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
+    "Biology/Biology Paper 2 Topics",
+    "Biology/Biology Paper 1",
+    "FM1",
+    "Untitled",
+    "Maths",
+    "Chemistry",
+    "Biology",
+    "Untitled.canvas",
     "Daily Notes/screenshot.png",
     "Mistakes/Untitled.canvas",
     "Untitled/Bio.canvas"
