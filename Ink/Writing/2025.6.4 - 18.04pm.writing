@@ -27,7 +27,7 @@
 					"isLocked": false,
 					"opacity": 1,
 					"meta": {
-						"savedH": 675
+						"savedH": 975
 					},
 					"type": "writing-lines",
 					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
@@ -48,7 +48,7 @@
 					"isLocked": true,
 					"opacity": 1,
 					"meta": {
-						"savedH": 675
+						"savedH": 975
 					},
 					"type": "writing-container",
 					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
@@ -10081,7 +10081,7 @@
 					"camera": {
 						"x": 0,
 						"y": 0,
-						"z": 0.378
+						"z": 0.1925
 					},
 					"selectedShapeIds": [],
 					"focusedGroupId": null
