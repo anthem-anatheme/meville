@@ -1,3 +1,0 @@
-- Enthalpy of solution is energy used to lattice breaks - energy released hydrating ions
-	- apply this to any question for explanation and you get marks
-- If enthalpy of solution is negative the compound should dissolve, can also dissolve if positive due to positive entropy change

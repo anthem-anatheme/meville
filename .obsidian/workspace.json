@@ -8,17 +8,43 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ac35d9ad1827fc09",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Biology/Biology Paper 1/Biology Paper 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Biology Paper 1"
+            }
+          },
+          {
             "id": "123cb77e08d71891",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Chemistry/knowledge gaps.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology Paper 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "knowledge gaps"
+              "icon": "lucide-trello",
+              "title": "Biology Paper 1"
             }
           }
         ]
@@ -62,6 +88,16 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "32c33b595a2dfa81",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -158,7 +194,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -169,45 +204,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "123cb77e08d71891",
+  "active": "ac35d9ad1827fc09",
   "lastOpenFiles": [
-    "Biology/Biology.md",
-    "Biology/Biology Paper 2 Topics.md",
-    "FM1/FM1.md",
-    "FM1/1D Collisions.md",
-    "FM1/Power and Work Done.md",
-    "Maths/Core Pure Paper tracker.md",
-    "Biology/2024 Biology Paper 1.md",
-    "FM1",
-    "Untitled",
-    "Untitled.md",
-    "Biology/mitosis.md",
-    "Biology/Cell Fractionation.md",
-    "Maths",
-    "Chemistry/Transition Elements.md",
-    "Chemistry/Redox & Electrode Potentials.md",
-    "Chemistry/Rates.md",
-    "Chemistry/Lattice Enthalpy.md",
-    "Chemistry/knowledge gaps.md",
-    "Chemistry/Fuel Cells.md",
-    "Chemistry/Equilibrium.md",
-    "Chemistry/Enthalpy and Entropy.md",
-    "Chemistry/Chemistry Topic Rankings.md",
-    "Chemistry/Chemistry Paper 1 Questions.md",
-    "Chemistry/Bonding.md",
-    "Chemistry/Acids, Bases, Buffers.md",
-    "Chemistry",
-    "Chemistry Mistakes.md",
-    "Biology/Skeletal Muscles.md",
-    "Biology/5.2 Respiration.md",
     "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
+    "Biology/Biology Paper 1/Biology Paper 1.md",
+    "Biology/Biology.md",
+    "Biology/Biology Paper 1/Biological Molecules.md",
+    "Biology/Biology Paper 2 Topics/Mitosis.md",
     "Biology/Biology Paper 1",
+    "Biology/Biology Paper 1/Cell Fractionation.md",
+    "Biology/Biology Paper 2 Topics/Skeletal Muscles.md",
     "Biology/Biology Paper 2 Topics",
+    "Biology/Biology Paper 2 Topics/5.2 Respiration.md",
     "Biology",
+    "Biology/Biology Paper 1/Microscopy.md",
     "Ink/Writing/2025.6.4 - 18.04pm.writing",
+    "Subjects/Biology.md",
+    "Untitled.md",
+    "Mistakes/PGF's.md",
+    "Mistakes/MnO4- Reduction Equation.md",
+    "Mistakes/Power Functions Question.md",
+    "Mistakes/Probability Generating Functions.md",
+    "Topics/Acids, Bases, Buffers.md",
+    "Mistakes/Chemistakes.md",
+    "Mistakes/2024 OCR Paper 1.md",
+    "Topics/Redox & Electrode Potentials.md",
+    "Topics/Quality of Tests.md",
+    "Topics/Untitled.md",
+    "Topics/Probability Generating Functions.md",
+    "Topics/Goodness of Fit.md",
+    "Topics/Central Limit Theorem.md",
+    "Subjects/Maths.md",
     "Untitled.canvas",
     "Subjects",
+    "Chemistry",
     "Topics",
+    "Templates",
+    "Ink/Writing/2025.5.28 - 22.36pm.writing",
+    "Ink/Writing",
     "Daily Notes/screenshot.png",
     "Mistakes/Untitled.canvas",
     "Untitled/Bio.canvas"

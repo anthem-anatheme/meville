@@ -1,0 +1,2 @@
+humoral response - phagocytes detect foreign antigen and engulf pathogen in phagosome, fuses with lysosome and hydrolytic enzymes hydrolyse pathogen. Products are released by exocytosis and antigens displayed in cell surface membrane (APC)
+Cell mediated T cell - Th cell with complementary receptor specific to antigen fuses
