@@ -11,20 +11,14 @@
             "id": "123cb77e08d71891",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Chemistry/Recipes/Buffers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Buffers"
             }
           }
         ]
@@ -84,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -169,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +181,10 @@
   },
   "active": "123cb77e08d71891",
   "lastOpenFiles": [
+    "Chemistry/Untitled Kanban.md",
+    "Chemistry/Recipes/Buffers.md",
+    "Chemistry/Recipes",
     "Chemistry/Chemistry.canvas",
-    "Untitled Kanban.md",
     "Chemistry/Untitled.md",
     "Biology/Biology.md",
     "Chemistry",
@@ -220,7 +218,6 @@
     "FM1",
     "Untitled",
     "Maths",
-    "Biology",
     "Untitled.canvas",
     "Daily Notes/screenshot.png",
     "Mistakes/Untitled.canvas",
