@@ -11,20 +11,14 @@
             "id": "123cb77e08d71891",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Biology/Biology Paper 1/Biology Paper 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Chemistry/Recipes/Born Haber Cycles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Biology Paper 1"
+              "icon": "lucide-file",
+              "title": "Born Haber Cycles"
             }
           }
         ]
@@ -169,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,15 +179,17 @@
   },
   "active": "123cb77e08d71891",
   "lastOpenFiles": [
+    "Chemistry/Recipes/Buffers.md",
+    "Chemistry/Recipes/Born Haber Cycles.md",
+    "Chemistry/Chemistry.md",
+    "Chemistry/Chemistry.canvas",
+    "Biology/Biology Paper 1/Biology Paper 1.md",
     "Biology/Biology.md",
     "Biology/Biology Paper 1/Immunity.md",
-    "Chemistry/Recipes/Buffers.md",
     "Chemistry/Untitled Kanban.md",
     "Chemistry/Recipes",
-    "Chemistry/Chemistry.canvas",
     "Chemistry/Untitled.md",
     "Chemistry",
-    "Biology/Biology Paper 1/Biology Paper 1.md",
     "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
     "Chemistry/knowledge gaps.md",
     "Topics/Untitled.md",
@@ -215,8 +210,6 @@
     "Templates",
     "Mistakes/Power Functions Understanding.md",
     "Mistakes/MnO4- Reduction Equation.md",
-    "Mistakes/Chemistry Mistakes.md",
-    "Mistakes/2025 Predicted Paper.md",
     "Ink/Writing/2025.6.4 - 18.04pm.writing",
     "Biology/Biology Paper 2 Topics",
     "Biology/Biology Paper 1",
