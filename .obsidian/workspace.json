@@ -63,6 +63,16 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "6ff80f034c6bdfe6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
@@ -157,7 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -168,9 +177,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e71728907916e3b8",
+  "active": "123cb77e08d71891",
   "lastOpenFiles": [
+    "Chemistry/Chemistry.canvas",
+    "Chemistry",
     "Biology/Biology Paper 1/Biology Paper 1.md",
+    "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
+    "Biology/Biology.md",
     "Chemistry/knowledge gaps.md",
     "Topics/Untitled.md",
     "Topics/Transition Elements.md",
@@ -196,15 +209,11 @@
     "Maths Paper tracker.md",
     "Ink/Writing/2025.6.4 - 18.04pm.writing",
     "Immunity.md",
-    "Daily Notes/2025-05-31.md",
-    "Biology/Biology Paper 2 Topics/Skeletal Muscles.md",
-    "Biology/Biology Paper 2 Topics/Mitosis.md",
     "Biology/Biology Paper 2 Topics",
     "Biology/Biology Paper 1",
     "FM1",
     "Untitled",
     "Maths",
-    "Chemistry",
     "Biology",
     "Untitled.canvas",
     "Daily Notes/screenshot.png",
