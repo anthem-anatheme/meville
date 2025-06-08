@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +178,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "123cb77e08d71891",
+  "active": "b3ba4729e3f38ae6",
   "lastOpenFiles": [
     "Chemistry/Untitled Kanban.md",
     "Chemistry/Recipes/Buffers.md",
