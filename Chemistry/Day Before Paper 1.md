@@ -1,11 +1,12 @@
-##### **2017**
+##### **[[Chemistry 2017 Paper 1.pdf|2017]]**
 - If comparing melting points, check if any have hydrogen bonding (F,O,N, and a hydrogen)
 - Systematic name - oxidation state goes at end, in bracketed roman numerals
 - For entropy, always talk about increase in disorder/more possible states
 - For gas collection - Measuring Cylinder or Gas Syringe, with correct capacity and markings 
 	- Or measure loss of mass - as gas produced mass will decrease
 - Electrode potentials - Most negative is strongest reducing agent, positive is strongest oxidising agent
-##### **[[Chemistry 2018 Paper 1.pdf|2018]] **
+##### **[[Chemistry 2018 Paper 1.pdf|2018]] 
+
 - ∆H hydration when one mole of **gaseous ions** dissolve in water to form one mole of **hydrated ions**
 	- Affected by ionic radius and charge - attraction to **H2O molecules**
 - Average bond enthalpy when one mole of bonds is broken, **in gaseous molecules**
@@ -19,4 +20,9 @@
 - Cu and Cr are anomalies in electron config, one of the 4s electrons moved to 3d to make it 3d5 or 3d10
 - When asked about equilibrium of electrode potential questions, reference equilibrium of separate half cell reactions moving left or right (This is the "flipping" of the equation due to it being more negative)
 ##### **[[Chemistry 2019 Paper 1.pdf|2019]]**
-- 
+- For buffer solution long explanation, always talk about equilibrium change and the which reaction out of forward and backward will increase/decrease in rate
+- Haemoglobin - Oxygen ligand substitutes H2O ligand in Fe2+ complex ion to form a dative bond by donating an electron pair at lungs, then is substituted again in low p(O2) areas by H2O to unload oxygen
+	- CO dative bond to Fe2+ stronger than oxygens, so cannot be displaced so prevents oxygen being transported by haemoglobin
+- Electrode potentials **always** mention equilibrium of half cell shifting to right, and the other to the left, mainly the one that is the focus of the question though
+- Titrations - Lower concentration means larger titre so lower % uncertainty
+- pH curves - check middle of vertical section is above/below 7 depending on combination of strong/weak acid/base
