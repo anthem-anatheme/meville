@@ -8,20 +8,45 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fb17b699686f224a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/A-level/Past-Papers/OCR-A/Paper-1/QP/June%202018%20QP.pdf",
+                "title": "June 2018 QP - Paper 1 OCR (A) Chemistry A-level",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "June 2018 QP - Paper 1 OCR (A) Chemistry A-level"
+            }
+          },
+          {
             "id": "123cb77e08d71891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Recipes/Born Haber Cycles.md",
+                "file": "Chemistry/Day Before Paper 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Born Haber Cycles"
+              "title": "Day Before Paper 1"
+            }
+          },
+          {
+            "id": "9d6e0b5bf254d257",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -177,45 +203,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "123cb77e08d71891",
+  "active": "b3ba4729e3f38ae6",
   "lastOpenFiles": [
     "Chemistry/Recipes/Buffers.md",
+    "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
+    "Chemistry/Day Before Paper 1.md",
     "Chemistry/Recipes/Born Haber Cycles.md",
+    "Chemistry/Papers/Chemistry 2018 Paper 1.md",
+    "OCR 2018 Paper 1.md",
+    "Chemistry/Papers",
     "Chemistry/Chemistry.md",
+    "Topics/Redox & Electrode Potentials.md",
+    "Topics/Untitled.md",
+    "Topics/Rates.md",
+    "Topics/Lattice Enthalpy.md",
+    "Topics/Goodness of Fit.md",
+    "Topics/Enthalpy and Entropy.md",
+    "Topics/Bonding.md",
+    "Chemistry/Chemistakes.md",
+    "Mistakes/MnO4- Reduction Equation.md",
     "Chemistry/Chemistry.canvas",
     "Biology/Biology Paper 1/Biology Paper 1.md",
     "Biology/Biology.md",
     "Biology/Biology Paper 1/Immunity.md",
     "Chemistry/Untitled Kanban.md",
     "Chemistry/Recipes",
-    "Chemistry/Untitled.md",
     "Chemistry",
     "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
     "Chemistry/knowledge gaps.md",
-    "Topics/Untitled.md",
     "Topics/Transition Elements.md",
-    "Topics/Redox & Electrode Potentials.md",
-    "Topics/Rates.md",
     "Topics/Quality of Tests.md",
     "Topics/Probability Generating Functions.md",
-    "Topics/Lattice Enthalpy.md",
-    "Topics/Goodness of Fit.md",
     "Topics/Equilibrium.md",
-    "Topics/Enthalpy and Entropy.md",
-    "Topics/Bonding.md",
-    "Topics/Central Limit Theorem.md",
-    "Topics/Acids, Bases, Buffers.md",
     "Topics",
-    "Templates/Mistakes.md",
     "Templates",
-    "Mistakes/Power Functions Understanding.md",
-    "Mistakes/MnO4- Reduction Equation.md",
     "Ink/Writing/2025.6.4 - 18.04pm.writing",
     "Biology/Biology Paper 2 Topics",
     "Biology/Biology Paper 1",
     "FM1",
-    "Untitled",
-    "Maths",
     "Untitled.canvas",
     "Daily Notes/screenshot.png",
     "Mistakes/Untitled.canvas",
