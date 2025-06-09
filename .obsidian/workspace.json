@@ -7,18 +7,7 @@
         "id": "785b8227d147b6ed",
         "type": "tabs",
         "children": [
-          {
-            "id": "123cb77e08d71891",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Chemistry/Papers/Chemistry 2019 Paper 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chemistry 2019 Paper 1"
-            }
-          },
+              "title": "Diff: conflict-files-obsidian-git"
           {
             "id": "802e6148188c96b8",
             "type": "leaf",
@@ -92,13 +81,26 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "350cdb053d76979c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -197,15 +199,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b3ba4729e3f38ae6",
+  "active": "123cb77e08d71891",
   "lastOpenFiles": [
+    "Chemistry/Chemistry.md",
     "Chemistry/Papers/Chemistry 2019 Paper 1.pdf",
     "Chemistry/Day Before Paper 1.md",
     "Chemistry/Chemistakes.md",
     "Untitled.md",
     "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
     "OCR 2018 Paper 1.md",
-    "Chemistry/Chemistry.md",
     "Chemistry/Papers",
     "Chemistry/Recipes/Born Haber Cycles.md",
     "Chemistry/Recipes/Buffers.md",
