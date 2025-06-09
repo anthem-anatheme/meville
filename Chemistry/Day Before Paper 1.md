@@ -18,5 +18,5 @@
 - Titrations involving iodine -> Use starch indicator
 - Cu and Cr are anomalies in electron config, one of the 4s electrons moved to 3d to make it 3d5 or 3d10
 - When asked about equilibrium of electrode potential questions, reference equilibrium of separate half cell reactions moving left or right (This is the "flipping" of the equation due to it being more negative)
-##### **2019**
+##### **[[Chemistry 2019 Paper 1.pdf|2019]]**
 - 
