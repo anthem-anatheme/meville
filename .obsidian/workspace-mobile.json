@@ -21,18 +21,44 @@
             "id": "d4a5d39c5e38f570",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Chemistry/Day Before Paper 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Mistakes/Chemistry Mistakes.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Day Before Paper 1"
+              "icon": "lucide-trello",
+              "title": "Chemistry Mistakes"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "cdc54854685d4153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb775cad4fc58d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mistakes/Alkaline Redox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alkaline Redox"
+            }
+          }
+        ]
       },
       {
         "id": "c932b2715725d3cb",
@@ -196,19 +222,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29d909e656d885eb",
+  "active": "6eb775cad4fc58d2",
   "lastOpenFiles": [
+    "Mistakes/2025 Predicted Paper.md",
+    "Mistakes/Alkaline Redox.md",
+    "Mistakes/Alkaline conditions redox equation.md",
+    "Mistakes/Chemistry Mistakes.md",
+    "Mistakes/2021 OCR Paper 2.md",
+    "Chemistry/Day Before Paper 1.md",
+    "Mistakes/MnO4- Reduction Equation.md",
+    "Chemistry/Chemistakes.md",
+    "Pasted image 20250609155351.png",
+    "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
+    "/Pasted image 20250609155351.png",
+    "/Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
+    "/Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
+    "Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
+    "/Chemistry/Papers",
+    "/Chemistry/Day Before Paper 1.md",
+    "/Chemistry",
     "/meville/Topics",
     "/meville/Templates",
     "/meville/Mistakes",
     "/meville/Ink/Writing",
-    "/meville/Ink",
-    "/meville/Daily Notes",
-    "/meville/Chemistry/Recipes",
-    "/meville/Chemistry/Papers",
-    "/meville/Chemistry",
-    "/meville/Biology/Biology Paper 2 Topics",
-    "/meville/Biology/Biology Paper 1",
     "Chemistry/Chemistry.md",
     "Biology/Biology Paper 1/Biological Molecules.md",
     "Biology/Biology Paper 1/Biology Paper 1.md",
@@ -220,7 +256,6 @@
     "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
     "Biology/Biology.md",
     "Mistakes/Chemistakes.md",
-    "Mistakes/2025 Predicted Paper.md",
     "Biology Paper 1.md",
     "/Biology/Biology Paper 1/Biological Molecules.md",
     "/Mistakes/Chemistakes.md",
@@ -228,13 +263,6 @@
     "Biology/Biology Paper 2 Topics/Skeletal Muscles.md",
     "Biology/Biology Paper 2 Topics/5.2 Respiration.md",
     "Biology/Biology Paper 1/Cell Fractionation.md",
-    "Biology/Biology Paper 1/Microscopy.md",
-    "/Biology/Biology.md",
-    "/Biology/Biology Paper 2 Topics/Skeletal Muscles.md",
-    "/Biology/Biology Paper 2 Topics/Mitosis.md",
-    "/Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
-    "/Biology/Biology Paper 2 Topics/5.2 Respiration.md",
-    "/Biology/Biology Paper 1/Microscopy.md",
     "Daily Notes/screenshot.png",
     "/Daily Notes/screenshot.png",
     "screenshot.png",
