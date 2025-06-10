@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9578dc40446f028",
+            "id": "9db84bd0906b757e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biology/Paper 2 Roundup.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology/Papers/Biology 2017 Paper 2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Paper 2 Roundup"
+              "icon": "lucide-file-text",
+              "title": "Biology 2017 Paper 2"
             }
           }
         ]
@@ -31,12 +29,14 @@
             "id": "ace93ec2762eb357",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Biology/Papers/Biology 2017 Paper 2.pdf"
+                "file": "Biology/Paper 2 Roundup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Biology 2017 Paper 2"
+              "icon": "lucide-file",
+              "title": "Paper 2 Roundup"
             }
           }
         ]
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -198,8 +199,8 @@
   },
   "active": "ace93ec2762eb357",
   "lastOpenFiles": [
-    "Biology/Paper 2 Roundup.md",
     "Biology/Papers/Biology 2017 Paper 2.pdf",
+    "Biology/Paper 2 Roundup.md",
     "Biology/Biology.md",
     "Biology/Papers/Biology 2017 Paper 1.pdf",
     "Biology/Papers/Untitled.md",
