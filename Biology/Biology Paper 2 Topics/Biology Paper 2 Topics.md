@@ -21,7 +21,6 @@ kanban-plugin: board
 
 ## Ez
 
-- [ ] [[4.2 Plant Mass Transport]]
 - [ ] [[6.1 Stimuli and Response]]
 - [ ] [[3.6.2 Nervous Coordination]]
 - [ ] [[7.1 Inheritance]]

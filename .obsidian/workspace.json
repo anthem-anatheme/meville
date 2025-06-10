@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Day Before Paper 1.md",
+                "file": "Biology/Paper 2 Roundup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day Before Paper 1"
+              "title": "Paper 2 Roundup"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b9f426e13ea81e85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace93ec2762eb357",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Biology/Papers/Biology 2017 Paper 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Biology 2017 Paper 2"
             }
           }
         ]
@@ -79,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -179,20 +196,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c9578dc40446f028",
+  "active": "ace93ec2762eb357",
   "lastOpenFiles": [
+    "Biology/Paper 2 Roundup.md",
+    "Biology/Papers/Biology 2017 Paper 2.pdf",
+    "Biology/Biology.md",
+    "Biology/Papers/Biology 2017 Paper 1.pdf",
+    "Biology/Papers/Untitled.md",
+    "hghu.md",
+    "().md",
+    "Biology/Papers",
+    "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
+    "Biology/Biology Paper 1/Biology Paper 1.md",
+    "Chemistry/Day Before Paper 1.md",
     "Chemistry/Chemistry.md",
     "Maths/Papers/FS1 2022.pdf",
-    "Chemistry/Day Before Paper 1.md",
     "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
-    "Biology/Biology.md",
     "Maths/Maths Paper tracker.md",
     "Maths/Papers",
     "Maths/New folder",
     "Maths",
-    "Chemistry/Papers/Chemistry 2019 Paper 1.pdf",
     "Pasted image 20250609155351.png",
     "Chemistry/Recipes/Born Haber Cycles.md",
     "meville/Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
@@ -209,14 +234,6 @@
     "meville/Topics/Equilibrium.md",
     "meville/Topics/Enthalpy and Entropy.md",
     "meville/Topics/Central Limit Theorem.md",
-    "meville/Topics/Bonding.md",
-    "meville/Topics/Acids, Bases, Buffers.md",
-    "meville/Topics",
-    "meville/Templates/Mistakes.md",
-    "meville/Templates",
-    "meville/Mistakes/Transition metals mistakes.md",
-    "meville/Mistakes/Power Functions Understanding.md",
-    "meville/Mistakes/Chemistry Mistakes.md",
     "meville/Daily Notes/screenshot.png",
     "Chemistry/Chemistry.canvas",
     "Untitled.canvas",
