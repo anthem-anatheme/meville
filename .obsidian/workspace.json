@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ace93ec2762eb357",
+  "active": "b3ba4729e3f38ae6",
   "lastOpenFiles": [
     "Biology/Paper 2 Roundup.md",
     "Biology/Biology Paper 2 Topics/8.3-4 Gene Technologies.md",
