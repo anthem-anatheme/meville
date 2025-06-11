@@ -11,14 +11,12 @@
             "id": "ace93ec2762eb357",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biology/Bio Paper 2 Difficult.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology/Papers/Biology 2017 Paper 2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Bio Paper 2 Difficult"
+              "icon": "lucide-file-text",
+              "title": "Biology 2017 Paper 2"
             }
           }
         ]
@@ -178,11 +176,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ace93ec2762eb357",
+  "active": "350cdb053d76979c",
   "lastOpenFiles": [
-    "Biology/Papers/Biology 2017 Paper 2.pdf",
     "Biology/Bio Paper 2 Difficult.md",
     "Biology/Paper 2 Roundup.md",
+    "Biology/Papers/Biology 2017 Paper 2.pdf",
+    "Biology/Papers/Biology 2017 Paper 2.pdf",
     "Biology/Biology Paper 2 Topics/8.3-4 Gene Technologies.md",
     "Chemistry/Chemistry.md",
     "Biology/Biology Paper 2 Topics/8.1-2 Mutations and Gene Expression.md",
@@ -206,7 +205,6 @@
     "Maths/Maths Paper tracker.md",
     "Maths/Papers",
     "Maths/New folder",
-    "Maths",
     "Chemistry/Recipes/Born Haber Cycles.md",
     "meville/Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
     "meville/Biology/Biology Paper 1/Biology Paper 1.md",
