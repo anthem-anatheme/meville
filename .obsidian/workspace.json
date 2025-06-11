@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "785b8227d147b6ed",
-        "type": "tabs",
-        "dimension": 61.30208333333334,
-        "children": [
-          {
-            "id": "9db84bd0906b757e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/Papers/Biology 2017 Paper 2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Biology 2017 Paper 2"
-            }
-          }
-        ]
-      },
-      {
         "id": "b9f426e13ea81e85",
         "type": "tabs",
-        "dimension": 38.697916666666664,
         "children": [
           {
             "id": "ace93ec2762eb357",
@@ -99,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -185,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +178,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ace93ec2762eb357",
+  "active": "b3ba4729e3f38ae6",
   "lastOpenFiles": [
     "Biology/Papers/Biology 2017 Paper 2.pdf",
     "Biology/Paper 2 Roundup.md",
