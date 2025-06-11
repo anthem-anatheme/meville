@@ -48,14 +48,10 @@
             "id": "6eb775cad4fc58d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mistakes/Alkaline Redox.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alkaline Redox"
+              "title": "New tab"
             }
           }
         ]
