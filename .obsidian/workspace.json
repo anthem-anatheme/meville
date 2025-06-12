@@ -11,12 +11,14 @@
             "id": "ace93ec2762eb357",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Biology/Papers/Biology 2017 Paper 2.pdf"
+                "file": "Biology/Paper 2 Roundup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Biology 2017 Paper 2"
+              "icon": "lucide-file",
+              "title": "Paper 2 Roundup"
             }
           }
         ]
@@ -77,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -176,17 +179,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ace93ec2762eb357",
+  "active": "b3ba4729e3f38ae6",
   "lastOpenFiles": [
+    "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
+    "Biology/Papers/Biology 2017 Paper 2.pdf",
     "Biology/Bio Paper 2 Difficult.md",
     "Biology/Paper 2 Roundup.md",
-    "Biology/Papers/Biology 2017 Paper 2.pdf",
     "Biology/Biology Paper 2 Topics/8.3-4 Gene Technologies.md",
     "Chemistry/Chemistry.md",
     "Biology/Biology Paper 2 Topics/8.1-2 Mutations and Gene Expression.md",
     "Pasted image 20250609155351.png",
     "Stem cells.md",
-    "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
     "Biology/Biology Paper 1/Biology Paper 1.md",
     "Biology/Biology Paper 2 Topics/7.1 Inheritance.md",
     "Biology/Biology Paper 2 Topics/7.2-4 Populations in Ecosystems.md",
