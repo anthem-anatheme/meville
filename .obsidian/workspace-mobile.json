@@ -39,45 +39,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "cdc54854685d4153",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6eb775cad4fc58d2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c932b2715725d3cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "99a4961de6ebf480",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Chemistry/Chemistry.canvas",
-                "viewState": {
-                  "x": -178,
-                  "y": 44.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Chemistry"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +179,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6eb775cad4fc58d2",
+  "active": "29d909e656d885eb",
   "lastOpenFiles": [
+    "Biology/Papers/Biology 2017 Paper 2.pdf",
+    "Biology/Bio Paper 2 Difficult.md",
+    "Biology/Paper 2 Roundup.md",
     "Mistakes/2025 Predicted Paper.md",
     "Mistakes/Alkaline Redox.md",
     "Mistakes/Alkaline conditions redox equation.md",
@@ -240,7 +204,6 @@
     "/meville/Topics",
     "/meville/Templates",
     "/meville/Mistakes",
-    "/meville/Ink/Writing",
     "Chemistry/Chemistry.md",
     "Biology/Biology Paper 1/Biological Molecules.md",
     "Biology/Biology Paper 1/Biology Paper 1.md",
@@ -256,9 +219,6 @@
     "/Biology/Biology Paper 1/Biological Molecules.md",
     "/Mistakes/Chemistakes.md",
     "/Biology/Biology Paper 1/Biology Paper 1.md",
-    "Biology/Biology Paper 2 Topics/Skeletal Muscles.md",
-    "Biology/Biology Paper 2 Topics/5.2 Respiration.md",
-    "Biology/Biology Paper 1/Cell Fractionation.md",
     "Daily Notes/screenshot.png",
     "/Daily Notes/screenshot.png",
     "screenshot.png",
