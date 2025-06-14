@@ -1,1 +1,2 @@
 - [ ] Free Radical Mechanism + Equations 🔼
+- [ ] Reflux and Distillation Diagrams

@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Paper 2 Roundup.md",
-                "mode": "source",
+                "file": "Study.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paper 2 Roundup"
+              "title": "Study"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": true
           },
           "icon": "lucide-folder-closed",
@@ -222,11 +222,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29d909e656d885eb",
+  "active": "6eb775cad4fc58d2",
   "lastOpenFiles": [
+    "Biology/Paper 2 Roundup.md",
+    "Study.md",
+    "/Study.md",
+    "/Mistakes/2021 OCR Paper 2.md",
+    "/Mistakes",
     "Biology/Papers/Biology 2017 Paper 2.pdf",
     "Biology/Bio Paper 2 Difficult.md",
-    "Biology/Paper 2 Roundup.md",
     "Mistakes/2025 Predicted Paper.md",
     "Mistakes/Alkaline Redox.md",
     "Mistakes/Alkaline conditions redox equation.md",
@@ -246,7 +250,6 @@
     "/Chemistry",
     "/meville/Topics",
     "/meville/Templates",
-    "/meville/Mistakes",
     "Chemistry/Chemistry.md",
     "Biology/Biology Paper 1/Biological Molecules.md",
     "Biology/Biology Paper 1/Biology Paper 1.md",
@@ -260,8 +263,6 @@
     "Mistakes/Chemistakes.md",
     "Biology Paper 1.md",
     "/Biology/Biology Paper 1/Biological Molecules.md",
-    "/Mistakes/Chemistakes.md",
-    "/Biology/Biology Paper 1/Biology Paper 1.md",
     "Daily Notes/screenshot.png",
     "/Daily Notes/screenshot.png",
     "screenshot.png",
