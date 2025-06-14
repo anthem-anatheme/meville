@@ -1,2 +1,3 @@
 - [ ] Free Radical Mechanism + Equations 🔼
 - [ ] Reflux and Distillation Diagrams
+- [ ] Recrystallisation Method (6 Marks!)🔼 
