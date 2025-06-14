@@ -1,0 +1,1 @@
+- Find T2 Error - Chance you don't accept H1 when it was true - use given that and outside of crit region

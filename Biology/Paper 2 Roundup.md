@@ -27,3 +27,23 @@
 - DNA probes single stranded *and* complementary to specific allele - whole purpose is to detect an allele
 - Muscle contraction and action potential → *neuromuscular junction or sarcolemma*
 - Single stranded DNA/mRNA → *Complementary Base Pairing*
+
+#### **2024** - 
+- Q1 - 6/8
+	- Neuromuscular junction - Refer to everything in terms of *sarcolemma, sarcoplasmic reticulum*, and *calcium ions*
+- Q2 - 6/7
+	- Fast muscle fibres respire anaerobically (faster access to ATP), slow respire aerobically
+- Q3 - 7/7
+- Q4 - 7/8
+	- Read the question, underline keywords esp for genetics, you missed out an easy mark here
+- Q5 - 9/10
+	- Check maths at end of question, even if looks easy
+- Q6 - 6/8
+	- Heart contraction sequence: SAN → Atria walls → AVN delay → Purkyne fibres and bundle of His → Ventricles contract together, bottom upwards
+	- With conclude from data, always talk about extremes where possible, what is the most significant and least significant. Won't lose you marks and comes up on markschemes often
+- Q7 - 7/7
+- Q8 - 9/10
+	- For weird concentrations, dilute twice to make the maths easier, usually on markscheme and sometimes preferred
+- Q9 - 10/11
+- Q10 - 15/15
+	- 
