@@ -11,14 +11,12 @@
             "id": "ace93ec2762eb357",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Study.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology/Papers/Biology 2017 Paper 2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Study"
+              "icon": "lucide-file-text",
+              "title": "Biology 2017 Paper 2"
             }
           }
         ]
@@ -114,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Study"
+              "title": "Outgoing links"
             }
           },
           {
@@ -129,9 +126,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -183,43 +178,41 @@
   },
   "active": "ace93ec2762eb357",
   "lastOpenFiles": [
-    "Chemistry/Chemistakes.md",
-    "Study.md",
-    "Chemistry/Day Before Paper 1.md",
-    "Chemistry/Recipes/Born Haber Cycles.md",
-    "Chemistry/Recipes/Buffers.md",
-    "Biology/Paper 2 Roundup.md",
     "Biology/Bio Paper 2 Difficult.md",
-    "Maths/FS1 Roundup.md",
-    "Maths/Maths Paper tracker.md",
-    "Maths/Papers/FS1 2022.pdf",
-    "Mistakes/Transition metals mistakes.md",
-    "Mistakes/Power Functions Understanding.md",
-    "Mistakes/MnO4- Reduction Equation.md",
-    "Mistakes/Chemistry Mistakes.md",
-    "Mistakes/2025 Predicted Paper.md",
-    "Mistakes/2024 OCR Paper 1.md",
-    "Mistakes/2024 Biology Paper 1.md",
-    "Mistakes/2021 OCR Paper 2.md",
-    "Chemistry 2019 Paper 1.pdf.md",
-    "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
-    "Chemistry/Papers/Chemistry 2019 Paper 1.pdf",
-    "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
-    "Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
-    "Chemistry/Chemistry.md",
+    "Biology/Paper 2 Roundup.md",
     "Biology/Papers/Biology 2017 Paper 2.pdf",
-    "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
     "Biology/Biology Paper 2 Topics/8.3-4 Gene Technologies.md",
+    "Chemistry/Chemistry.md",
     "Biology/Biology Paper 2 Topics/8.1-2 Mutations and Gene Expression.md",
     "Pasted image 20250609155351.png",
     "Stem cells.md",
+    "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
     "Biology/Biology Paper 1/Biology Paper 1.md",
     "Biology/Biology Paper 2 Topics/7.1 Inheritance.md",
     "Biology/Biology Paper 2 Topics/7.2-4 Populations in Ecosystems.md",
+    "Chemistry/Day Before Paper 1.md",
+    "Biology/Biology.md",
     "Biology/Papers/Biology 2017 Paper 1.pdf",
+    "Biology/Papers/Untitled.md",
+    "hghu.md",
+    "().md",
     "Biology/Papers",
+    "Maths/Papers/FS1 2022.pdf",
+    "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
+    "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
+    "Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
+    "Maths/Maths Paper tracker.md",
     "Maths/Papers",
     "Maths/New folder",
+    "Chemistry/Recipes/Born Haber Cycles.md",
+    "meville/Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
+    "meville/Biology/Biology Paper 1/Biology Paper 1.md",
+    "meville/Biology/Biology.md",
+    "conflict-files-obsidian-git.md",
+    "meville/Topics/Transition Elements.md",
+    "meville/Topics/Redox & Electrode Potentials.md",
+    "meville/Topics/Rates.md",
+    "meville/Topics/Quality of Tests.md",
     "meville/Daily Notes/screenshot.png",
     "Chemistry/Chemistry.canvas",
     "Untitled.canvas",

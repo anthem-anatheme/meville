@@ -1,8 +1,8 @@
 [
   "obsidian-git",
   "obsidian-kanban",
+  "ink",
   "templater-obsidian",
   "folder-notes",
-  "waypoint",
-  "obsidian-tasks-plugin"
+  "waypoint"
 ]
