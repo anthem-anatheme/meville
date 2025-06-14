@@ -1,3 +1,2 @@
 - Haemoglobin has Fe2+ ion, not Fe3+
 	- Oxygen bonds to Fe2+, bond broken to release O2 to cells.
-By h.4
