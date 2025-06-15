@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mistakes/2021 OCR Paper 2.md",
+                "file": "Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2021 OCR Paper 2"
+              "title": "Study"
             }
           }
         ]
@@ -184,24 +184,25 @@
   },
   "active": "ace93ec2762eb357",
   "lastOpenFiles": [
-    "Mistakes/Power Functions Understanding.md",
-    "Study.md",
     "Chemistry/Chemistakes.md",
-    "Chemistry/Recipes/Ozone breakdown.md",
     "Chemistry/Day Before Paper 1.md",
+    "Mistakes/2024 OCR Paper 1.md",
+    "Chemistry/Recipes/Buffers.md",
+    "Chemistry/Recipes/Born Haber Cycles.md",
+    "Chemistry/Recipes/Ozone breakdown.md",
+    "Mistakes/Power Functions Understanding.md",
+    "Mistakes/2021 OCR Paper 2.md",
+    "Study.md",
     "Chemistry/Chemistry.md",
     "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2019 Paper 1.pdf",
-    "Mistakes/2021 OCR Paper 2.md",
     "Maths/Papers/FS1 2022.pdf",
     "Ink/Writing/2025.6.4 - 18.04pm.writing",
     "Ink/Writing/2025.5.28 - 22.36pm.writing",
     "Ink/Writing",
     "Ink",
-    "Chemistry/Recipes/Born Haber Cycles.md",
-    "Chemistry/Recipes/Buffers.md",
     "Biology/Paper 2 Roundup.md",
     "Biology/Bio Paper 2 Difficult.md",
     "Maths/FS1 Roundup.md",
@@ -210,7 +211,6 @@
     "Mistakes/MnO4- Reduction Equation.md",
     "Mistakes/Chemistry Mistakes.md",
     "Mistakes/2025 Predicted Paper.md",
-    "Mistakes/2024 OCR Paper 1.md",
     "Mistakes/2024 Biology Paper 1.md",
     "Chemistry 2019 Paper 1.pdf.md",
     "Biology/Papers/Biology 2017 Paper 2.pdf",
