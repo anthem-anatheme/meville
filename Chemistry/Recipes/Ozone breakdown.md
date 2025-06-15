@@ -1,0 +1,1 @@
+Radical reacts with ozone (O3) and accepts an O to form a new radical and a sing

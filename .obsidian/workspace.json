@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study.md",
+                "file": "Chemistry/Recipes/Ozone breakdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study"
+              "title": "Ozone breakdown"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -183,9 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ace93ec2762eb357",
+  "active": "350cdb053d76979c",
   "lastOpenFiles": [
     "Study.md",
+    "Chemistry/Recipes/Ozone breakdown.md",
     "Chemistry/Chemistakes.md",
     "Mistakes/2021 OCR Paper 2.md",
     "Maths/Papers/FS1 2022.pdf",
@@ -195,7 +195,6 @@
     "Ink",
     "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2019 Paper 1.pdf",
-    "Study.md",
     "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
     "Chemistry/Day Before Paper 1.md",
@@ -221,7 +220,6 @@
     "Pasted image 20250609155351.png",
     "Stem cells.md",
     "Biology/Biology Paper 1/Biology Paper 1.md",
-    "Biology/Biology Paper 2 Topics/7.1 Inheritance.md",
     "meville/Daily Notes/screenshot.png",
     "Chemistry/Chemistry.canvas",
     "Untitled.canvas",
