@@ -1,5 +1,5 @@
 - [ ] Free Radical Mechanism + Equations 🔼
-	- [ ] Oz
+	- [ ] Ozone breakdown mechanism
 - [ ] Reflux and Distillation Diagrams
 - [ ] Recrystallisation Method (6 Marks!)🔼 
 - [ ] Haloalkane Bond Trends
