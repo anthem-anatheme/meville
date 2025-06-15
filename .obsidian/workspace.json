@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +183,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3ba4729e3f38ae6",
+  "active": "ace93ec2762eb357",
   "lastOpenFiles": [
     "Study.md",
     "Chemistry/Chemistakes.md",
