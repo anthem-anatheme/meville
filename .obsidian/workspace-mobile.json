@@ -21,20 +21,14 @@
             "id": "d4a5d39c5e38f570",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Mistakes/Chemistry Mistakes.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Study.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Chemistry Mistakes"
+              "icon": "lucide-file",
+              "title": "Study"
             }
           }
         ],
@@ -179,8 +173,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4a5d39c5e38f570",
+  "active": "29d909e656d885eb",
   "lastOpenFiles": [
+    "Mistakes/Chemistry Mistakes.md",
     "Study.md",
     "/Study.md",
     "/Chemistry/Recipes/Ozone breakdown.md",
@@ -197,7 +192,6 @@
     "Mistakes/2025 Predicted Paper.md",
     "Mistakes/Alkaline Redox.md",
     "Mistakes/Alkaline conditions redox equation.md",
-    "Mistakes/Chemistry Mistakes.md",
     "Mistakes/2021 OCR Paper 2.md",
     "Chemistry/Day Before Paper 1.md",
     "Mistakes/MnO4- Reduction Equation.md",
