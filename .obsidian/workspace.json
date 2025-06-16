@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-05-26.md",
+                "file": "Chemistry/Day Before Paper 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-26"
+              "title": "Day Before Paper 1"
             }
           }
         ]
@@ -181,8 +181,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "350cdb053d76979c",
+  "active": "ace93ec2762eb357",
   "lastOpenFiles": [
+    "Topics/Probability Generating Functions.md",
+    "Topics/Quality of Tests.md",
+    "Topics/Transition Elements.md",
+    "Daily Notes/2025-05-26.md",
     "Daily Notes/2025-05-28.md",
     "Chemistry/Recipes/Buffers.md",
     "Chemistry/Recipes/Ozone breakdown.md",
@@ -215,11 +219,7 @@
     "Chemistry 2019 Paper 1.pdf.md",
     "Biology/Papers/Biology 2017 Paper 2.pdf",
     "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
-    "Biology/Biology Paper 2 Topics/8.3-4 Gene Technologies.md",
-    "Biology/Biology Paper 2 Topics/8.1-2 Mutations and Gene Expression.md",
     "Pasted image 20250609155351.png",
-    "Stem cells.md",
-    "Biology/Biology Paper 1/Biology Paper 1.md",
     "meville/Daily Notes/screenshot.png",
     "Chemistry/Chemistry.canvas",
     "Untitled.canvas",
