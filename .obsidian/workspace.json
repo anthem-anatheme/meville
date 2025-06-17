@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study.md",
+                "file": "Mistakes/Converting from old variable to reduced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study"
+              "title": "Converting from old variable to reduced"
             }
           }
         ],
@@ -213,9 +213,10 @@
   },
   "active": "8974ad82d29e104b",
   "lastOpenFiles": [
+    "Study.md",
+    "Mistakes/Converting from old variable to reduced.md",
     "Biology/Paper 3 Roundup.md",
     "Biology/Paper 2 Roundup.md",
-    "Study.md",
     "Topics/Transition Elements.md",
     "Maths/Maths Paper tracker.md",
     "Biology/Papers/Biology 2017 Paper 2.pdf",
