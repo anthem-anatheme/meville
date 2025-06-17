@@ -5,3 +5,4 @@
 - [x] Haloalkane Bond Trends ✅ 2025-06-15
 - [ ] Taylor series - how to write and what does it mean?
 - [ ] Memorise simpson's rule formula
+- [ ] Reducible Differential Equations
