@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mistakes/Converting from old variable to reduced.md",
+                "file": "Biology/Biology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Converting from old variable to reduced"
+              "title": "Biology"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -211,10 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8974ad82d29e104b",
+  "active": "451b25779ca38936",
   "lastOpenFiles": [
-    "Study.md",
+    "Biology/Biology.md",
+    "Chemistry/Chemistry.md",
     "Mistakes/Converting from old variable to reduced.md",
+    "Study.md",
     "Biology/Paper 3 Roundup.md",
     "Biology/Paper 2 Roundup.md",
     "Topics/Transition Elements.md",
@@ -232,7 +235,6 @@
     "Chemistry/Recipes/Born Haber Cycles.md",
     "Mistakes/Power Functions Understanding.md",
     "Mistakes/2021 OCR Paper 2.md",
-    "Chemistry/Chemistry.md",
     "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
@@ -248,7 +250,6 @@
     "Mistakes/MnO4- Reduction Equation.md",
     "Mistakes/Chemistry Mistakes.md",
     "Mistakes/2025 Predicted Paper.md",
-    "Mistakes/2024 Biology Paper 1.md",
     "Pasted image 20250609155351.png",
     "meville/Daily Notes/screenshot.png",
     "Chemistry/Chemistry.canvas",
