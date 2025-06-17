@@ -11,46 +11,13 @@
             "id": "ace93ec2762eb357",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Paper 2 Roundup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Paper 2 Roundup"
-            }
-          },
-          {
-            "id": "451b25779ca38936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Paper 3 Roundup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Paper 3 Roundup"
-            }
-          },
-          {
-            "id": "8974ad82d29e104b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Biology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Biology"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +64,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -108,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -197,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,29 +177,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "451b25779ca38936",
+  "active": "ace93ec2762eb357",
   "lastOpenFiles": [
-    "Biology/Biology.md",
-    "Chemistry/Chemistry.md",
-    "Mistakes/Converting from old variable to reduced.md",
-    "Study.md",
-    "Biology/Paper 3 Roundup.md",
-    "Biology/Paper 2 Roundup.md",
-    "Topics/Transition Elements.md",
-    "Maths/Maths Paper tracker.md",
-    "Biology/Papers/Biology 2017 Paper 2.pdf",
     "Chemistry/Day Before Paper 1.md",
     "Topics/Probability Generating Functions.md",
     "Topics/Quality of Tests.md",
+    "Topics/Transition Elements.md",
     "Daily Notes/2025-05-26.md",
     "Daily Notes/2025-05-28.md",
     "Chemistry/Recipes/Buffers.md",
     "Chemistry/Recipes/Ozone breakdown.md",
+    "Study.md",
     "Chemistry/Chemistakes.md",
     "Mistakes/2024 OCR Paper 1.md",
     "Chemistry/Recipes/Born Haber Cycles.md",
     "Mistakes/Power Functions Understanding.md",
     "Mistakes/2021 OCR Paper 2.md",
+    "Chemistry/Chemistry.md",
     "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
@@ -244,12 +203,18 @@
     "Ink/Writing/2025.5.28 - 22.36pm.writing",
     "Ink/Writing",
     "Ink",
+    "Biology/Paper 2 Roundup.md",
     "Biology/Bio Paper 2 Difficult.md",
     "Maths/FS1 Roundup.md",
+    "Maths/Maths Paper tracker.md",
     "Mistakes/Transition metals mistakes.md",
     "Mistakes/MnO4- Reduction Equation.md",
     "Mistakes/Chemistry Mistakes.md",
     "Mistakes/2025 Predicted Paper.md",
+    "Mistakes/2024 Biology Paper 1.md",
+    "Chemistry 2019 Paper 1.pdf.md",
+    "Biology/Papers/Biology 2017 Paper 2.pdf",
+    "Biology/Biology Paper 2 Topics/Biology Paper 2 Topics.md",
     "Pasted image 20250609155351.png",
     "meville/Daily Notes/screenshot.png",
     "Chemistry/Chemistry.canvas",
