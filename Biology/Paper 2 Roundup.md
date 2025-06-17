@@ -1,3 +1,4 @@
+#biology 
 ### **[[Biology 2017 Paper 2.pdf|2017]]**
 - Control of heart rate - More signals from medulla to SAN (through sympathetic)
 - Respiration for exercise -> mention ATP
