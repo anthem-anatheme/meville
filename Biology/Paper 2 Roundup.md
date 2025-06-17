@@ -8,4 +8,4 @@
 - Ratios always given x:1 format
 - Synapses/Action Potential Transmission → Na+ ions influx
 - Epigenetics mentioned → Methylation of gene or Acetylation of histone
-- CO2 uptake in photosynthesis - What is CO2 used for and why is that changed due to the condition? Use all the names of the molecules if more than 1 mark; GP,TP
+- CO2 uptake in photosynthesis - What is CO2 used for and why is that changed due to the condition? Use all the names of the molecules if more than 1 mark; GP,TP,RuBP,Rubisco, etc
