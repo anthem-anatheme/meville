@@ -21,4 +21,6 @@
 	- Eq will shift when temp changes
 - Sc and Zinc have 3d0 and 3d10 ions *only* so not transition
 - Transition elements lose and gain 4s electrons first (Cu and Cr weird, have half full 4s)
-- 
+- Only Cr(OH)3 dissolves in excess OH-
+- Cr(OH)2 and Cu(OH)3 dissolve in excess NH3
+- Cis and trans platin square planar
