@@ -12,4 +12,13 @@
 - To set up calorimetry to find ∆H of neutralisation, use concentration to get equal moles H+ and OH-
 - State symbols always in Born-Haber
 - Check doubling of enthalpy change in calculation
-- [ ] Enthalpy Change of Solution Born-Haber - REVIEW THIS
+- [ ] Enthalpy Change of Solution Born-Haber (exothermic vs endothermic?) - REVIEW THIS
+- Salt bridge allows flow of ions to balance charge difference
+- [ ] [[Fuel Cells|Fuel vs Storage Cells]]? You're kinda screwed if they come up so learn them today📅 2025-06-19 
+- Kp only include gaseous species!
+- >> means very on that side
+- Value of Kc and Kp only change with temperature
+	- Eq will shift when temp changes
+- Sc and Zinc have 3d0 and 3d10 ions *only* so not transition
+- Transition elements lose and gain 4s electrons first (Cu and Cr weird, have half full 4s)
+- 

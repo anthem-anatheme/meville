@@ -15,7 +15,8 @@
               "state": {
                 "file": "Chemistry/Day Before P3.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Day Before P3"
@@ -185,8 +186,11 @@
   },
   "active": "ace93ec2762eb357",
   "lastOpenFiles": [
-    "Maths/Mechanics.md",
+    "Fuel Cells.md",
+    "Chemistry/Day Before Paper 1.md",
+    "Ink/Pasted image 20250619180215.png",
     "Chemistry/Day Before P3.md",
+    "Maths/Mechanics.md",
     "Biology/Paper 2 Roundup.md",
     "Biology/Paper 3 Roundup.md",
     "Biology/Biology.md",
@@ -196,7 +200,6 @@
     "Topics/Transition Elements.md",
     "Maths/Maths Paper tracker.md",
     "Biology/Papers/Biology 2017 Paper 2.pdf",
-    "Chemistry/Day Before Paper 1.md",
     "Topics/Probability Generating Functions.md",
     "Topics/Quality of Tests.md",
     "Daily Notes/2025-05-26.md",
@@ -219,8 +222,6 @@
     "Ink",
     "Biology/Bio Paper 2 Difficult.md",
     "Maths/FS1 Roundup.md",
-    "Mistakes/Transition metals mistakes.md",
-    "Mistakes/MnO4- Reduction Equation.md",
     "Pasted image 20250609155351.png",
     "meville/Daily Notes/screenshot.png",
     "Chemistry/Chemistry.canvas",
