@@ -1,0 +1,7 @@
+- Polar/Non Polar molecules
+	- Caused by dipoles - diff in electronegativity between atoms *Not C-H*
+	- Dipole cancel out in symmetrical molecules
+	- Polar when terminal atoms around centre are diff, and lone pairs (except XeF4, lone pairs opposite in this case)
+- Orbitals only hold two electrons
+- s orbitals spherical, p dumbell
+- s,p,d,f subshells can hold 2,6,1
