@@ -1,0 +1,6 @@
+- SUVAT - Use 3 variables you know to find 4th unknown
+- Projectiles
+	- Connect horizontal and vertical with time 
+	- Acceleration is 0 horizontal, -g for vertical
+	- 
+- 
