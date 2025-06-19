@@ -4,4 +4,12 @@
 	- Polar when terminal atoms around centre are diff, and lone pairs (except XeF4, lone pairs opposite in this case)
 - Orbitals only hold two electrons
 - s orbitals spherical, p dumbell
-- s,p,d,f subshells can hold 2,6,1
+- s,p,d,f subshells can hold 2,6,10,14 (1,3,5,7 orbitals)
+- m in q=mc∆T is mass of liquid thermometer measuring
+- ∆H combustion always negative/exothermic
+- ∆H from experimental will always be diff to book because heat loss to surroundings, non standard conditions, incomplete combustion (of alcohols), specific heat cap of apparatus
+- Always have sign in final answer for ∆H
+- To set up calorimetry to find ∆H of neutralisation, use concentration to get equal moles H+ and OH-
+- State symbols always in Born-Haber
+- Check doubling of enthalpy change in calculation
+- [ ] Enthalpy Change of Solution Born-Haber - REVIEW THIS
