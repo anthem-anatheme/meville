@@ -24,3 +24,4 @@
 - Only Cr(OH)3 dissolves in excess OH-
 - Cr(OH)2 and Cu(OH)3 dissolve in excess NH3
 - Cis and trans platin square planar
+- 
