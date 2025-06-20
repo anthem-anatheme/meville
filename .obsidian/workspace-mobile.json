@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Biology.md",
+                "file": "Chemistry/Day Before P3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biology"
+              "title": "Day Before P3"
             }
           }
         ]
@@ -224,6 +224,8 @@
   },
   "active": "6eb775cad4fc58d2",
   "lastOpenFiles": [
+    "Chemistry/Chemistry.md",
+    "Biology/Biology.md",
     "Fuel Cells.md",
     "/Maths/Mechanics.md",
     "Maths/Mechanics.md",
@@ -262,8 +264,6 @@
     "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
     "/Pasted image 20250609155351.png",
     "/Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
-    "/Chemistry/Day Before Paper 1.md",
-    "Chemistry/Chemistry.md",
     "Chemistry/Chemistry.canvas",
     "Daily Notes/screenshot.png",
     "/Daily Notes/screenshot.png",
