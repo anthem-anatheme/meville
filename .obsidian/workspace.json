@@ -13,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Day Before P3.md",
+                "file": "Study.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Day Before P3"
+              "title": "Study"
             }
           }
         ]
@@ -80,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b0ed69d9b4cd9eea",
@@ -186,11 +184,16 @@
   },
   "active": "ace93ec2762eb357",
   "lastOpenFiles": [
-    "Fuel Cells.md",
-    "Chemistry/Day Before Paper 1.md",
-    "Ink/Pasted image 20250619180215.png",
-    "Chemistry/Day Before P3.md",
+    "Topics/Fuel Cells.md",
+    "Mistakes/Power Functions Understanding.md",
+    "Maths/Maths Paper tracker.md",
     "Maths/Mechanics.md",
+    "Maths/Papers/FS1 2022.pdf",
+    "Ink/Pasted image 20250619180215.png",
+    "Ink/Writing/2025.6.4 - 18.04pm.writing",
+    "Ink/Writing/2025.5.28 - 22.36pm.writing",
+    "Chemistry/Day Before P3.md",
+    "Chemistry/Day Before Paper 1.md",
     "Biology/Paper 2 Roundup.md",
     "Biology/Paper 3 Roundup.md",
     "Biology/Biology.md",
@@ -198,7 +201,6 @@
     "Mistakes/Converting from old variable to reduced.md",
     "Study.md",
     "Topics/Transition Elements.md",
-    "Maths/Maths Paper tracker.md",
     "Biology/Papers/Biology 2017 Paper 2.pdf",
     "Topics/Probability Generating Functions.md",
     "Topics/Quality of Tests.md",
@@ -209,15 +211,11 @@
     "Chemistry/Chemistakes.md",
     "Mistakes/2024 OCR Paper 1.md",
     "Chemistry/Recipes/Born Haber Cycles.md",
-    "Mistakes/Power Functions Understanding.md",
     "Mistakes/2021 OCR Paper 2.md",
     "Chemistry/Papers/Chemistry 2020 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2017 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2018 Paper 1.pdf",
     "Chemistry/Papers/Chemistry 2019 Paper 1.pdf",
-    "Maths/Papers/FS1 2022.pdf",
-    "Ink/Writing/2025.6.4 - 18.04pm.writing",
-    "Ink/Writing/2025.5.28 - 22.36pm.writing",
     "Ink/Writing",
     "Ink",
     "Biology/Bio Paper 2 Difficult.md",

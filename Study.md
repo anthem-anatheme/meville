@@ -3,5 +3,5 @@
 - [x] Reflux and Distillation Diagrams ✅ 2025-06-15
 - [x] Recrystallisation Method (6 Marks!) 🔼 ✅ 2025-06-15
 - [x] Haloalkane Bond Trends ✅ 2025-06-15
-- [ ] Taylor series - how to write and what does it mean?
-- [ ] Memorise simpson's rule formula
+- [x] Taylor series - how to write and what does it mean? ✅ 2025-06-21
+- [x] Memorise simpson's rule formula ✅ 2025-06-21
